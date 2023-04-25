@@ -9,7 +9,7 @@ Repository synchronizes with the NVD in 2 hour periods.
 ### Last repository update
 
 ```plain
-2023-04-25T10:00:23.418504+00:00
+2023-04-25T12:00:23.850731+00:00
 ```
 
 ### Most recent CVE modification timestamp synchronized with NVD
