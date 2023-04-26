@@ -1,7 +1,7 @@
 # nvd-json-datafeeds
 
 Community reconstruction of the soon-to-be deprecated JSON NVD Data Feeds. 
-[Releases](https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest) each day at 02:00 AM UTC.
+[Releases](https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest) each day at 00:00 AM UTC.
 Repository synchronizes with the NVD in 2 hour periods.
 
 ## Repository at a glance
@@ -9,13 +9,13 @@ Repository synchronizes with the NVD in 2 hour periods.
 ### Last repository update
 
 ```plain
-2023-04-26T06:00:23.773918+00:00
+2023-04-26T08:00:09.444056+00:00
 ```
 
 ### Most recent CVE modification timestamp synchronized with NVD
 
 ```plain
-2023-04-26T04:15:10.380000+00:00
+2023-04-26T06:15:09.283000+00:00
 ```
 
 ### Last Data Feed release
@@ -29,20 +29,20 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-datafeeds/r
 ### Total numbers of included CVEs
 
 ```plain
-213577
+213578
 ```
 
 ### CVEs added in the last commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `1`
 
+* CVE-2023-2294 (*2023-04-26T06:15:09.283*)
 
 
 ### CVEs modified in the last commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-* CVE-2023-2137 (*2023-04-26T04:15:10.380*)
 
 
 ## Download and Usage
