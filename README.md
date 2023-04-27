@@ -1,7 +1,7 @@
-# nvd-json-datafeeds
+# nvd-json-data-feeds
 
 Community reconstruction of the soon-to-be deprecated JSON NVD Data Feeds. 
-[Releases](https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest) each day at 00:00 AM UTC.
+[Releases](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest) each day at 00:00 AM UTC.
 Repository synchronizes with the NVD in 2 hour periods.
 
 ## Repository at a glance
@@ -9,18 +9,18 @@ Repository synchronizes with the NVD in 2 hour periods.
 ### Last repository update
 
 ```plain
-2023-04-27T08:00:28.423840+00:00
+2023-04-27T13:02:44.285971+00:00
 ```
 
 ### Most recent CVE modification timestamp synchronized with NVD
 
 ```plain
-2023-04-27T05:15:08.807000+00:00
+2023-04-27T12:15:09.300000+00:00
 ```
 
 ### Last Data Feed release
 
-Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest)
+Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
 2023-04-27T00:00:20.965588+00:00
@@ -28,8 +28,8 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-datafeeds/r
 
 ### Total numbers of included CVEs
 
-```plai#n
-213652
+```plain
+213663
 ```
 
 ### CVEs added in the last commit
@@ -40,9 +40,19 @@ Recently added CVEs: `0`
 
 ### CVEs modified in the last commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `11`
 
-* CVE-2023-31290 (*2023-04-27T05:15:08.807*)
+* CVE-2023-1778 (`2023-04-27T10:15:09.160`)
+* CVE-2023-2322 (`2023-04-27T09:15:09.927`)
+* CVE-2023-2323 (`2023-04-27T09:15:10.007`)
+* CVE-2023-2327 (`2023-04-27T10:15:09.603`)
+* CVE-2023-2328 (`2023-04-27T10:15:09.670`)
+* CVE-2023-2331 (`2023-04-27T12:15:09.070`)
+* CVE-2023-2336 (`2023-04-27T12:15:09.173`)
+* CVE-2023-2338 (`2023-04-27T12:15:09.237`)
+* CVE-2023-2339 (`2023-04-27T12:15:09.300`)
+* CVE-2023-28769 (`2023-04-27T09:15:09.057`)
+* CVE-2023-28770 (`2023-04-27T09:15:09.850`)
 
 
 ## Download and Usage
@@ -51,7 +61,7 @@ There are several ways you can work with the data in this repository:
 
 ### 1) Release Data Feed Packages
 
-The most straightforward approach is to obtain the latest Data Feed release packages [here](https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest).
+The most straightforward approach is to obtain the latest Data Feed release packages [here](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest).
 
 Each day on 02:00 AM UTC we package and upload json files that aim to reconstruct the legacy NVD CVE Data Feeds.
 Those are aggregated by the `year` part of the CVE identifier:
@@ -66,7 +76,8 @@ CVE-2003.json
 CVE-2023.json
 ```
 
-Furthermore, we also upload the well-known `Recent` and `Modified` feeds.
+We also upload the well-known `Recent` and `Modified` feeds.
+Furthermore, we provide the `All` feed, which contains a recent snapshot of all NVD records.
 Once your local copy is synced and the last sync was no older than 8 days, you can rely on these to stay up to date:
 
 ```plain
@@ -87,13 +98,13 @@ xz -d -k <feed>.json.xz
 You can fetch the latest releases for each package using the following static link layout:
 
 ```sh
-https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest/download/CVE-<YEAR>.json.xz
+https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CVE-<YEAR>.json.xz
 ```
 
 Example:
 
 ```sh
-wget https://github.com/fkie-cad/nvd-json-datafeeds/releases/latest/download/CVE-2023.json.xz
+wget https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CVE-2023.json.xz
 xz -d -k CVE-2023.json.xz
 ```
 
@@ -129,7 +140,7 @@ A byproduct of managing and continuously updating this dataset via git is that w
 If you are interested in having the NVD data as organized above, including the historical data of changes, just clone this repo (large!):
 
 ```sh
-git clone https://github.com/fkie-cad/nvd-json-datafeeds.git
+git clone https://github.com/fkie-cad/nvd-json-data-feeds.git
 ```
 
 ### 3) Clone the repository (without git history)
@@ -137,7 +148,7 @@ git clone https://github.com/fkie-cad/nvd-json-datafeeds.git
 Don't need the history? Then create a shallow copy:
 
 ```sh
-git clone --depth 1 -b main https://github.com/fkie-cad/nvd-json-datafeeds.git
+git clone --depth 1 -b main https://github.com/fkie-cad/nvd-json-data-feeds.git
 ```
 
 ## Motivation
