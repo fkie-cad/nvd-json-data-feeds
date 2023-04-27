@@ -2,23 +2,23 @@
 
 Community reconstruction of the soon-to-be deprecated JSON NVD Data Feeds. 
 [Releases](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest) each day at 00:00 AM UTC.
-Repository synchronizes with the NVD in 2 hour periods.
+Repository synchronizes with the NVD every 2 hours.
 
-## Repository at a glance
+## Repository at a Glance
 
-### Last repository update
-
-```plain
-2023-04-27T13:02:44.285971+00:00
-```
-
-### Most recent CVE modification timestamp synchronized with NVD
+### Last Repository Update
 
 ```plain
-2023-04-27T12:15:09.300000+00:00
+2023-04-27T14:00:21.230695+00:00
 ```
 
-### Last Data Feed release
+### Most recent CVE Modification Timestamp synchronized with NVD
+
+```plain
+2023-04-27T13:23:36.267000+00:00
+```
+
+### Last Data Feed Release
 
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
@@ -26,33 +26,26 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 2023-04-27T00:00:20.965588+00:00
 ```
 
-### Total numbers of included CVEs
+### Total Number of included CVEs
 
 ```plain
-213663
+213666
 ```
 
-### CVEs added in the last commit
+### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `3`
+
+* CVE-2023-2340 (`2023-04-27T13:15:09.213`)
+* CVE-2023-29255 (`2023-04-27T13:15:09.053`)
+* CVE-2023-30444 (`2023-04-27T13:15:09.290`)
 
 
+### CVEs modified in the last Commit
 
-### CVEs modified in the last commit
+Recently modified CVEs: `1`
 
-Recently modified CVEs: `11`
-
-* CVE-2023-1778 (`2023-04-27T10:15:09.160`)
-* CVE-2023-2322 (`2023-04-27T09:15:09.927`)
-* CVE-2023-2323 (`2023-04-27T09:15:10.007`)
-* CVE-2023-2327 (`2023-04-27T10:15:09.603`)
-* CVE-2023-2328 (`2023-04-27T10:15:09.670`)
-* CVE-2023-2331 (`2023-04-27T12:15:09.070`)
-* CVE-2023-2336 (`2023-04-27T12:15:09.173`)
-* CVE-2023-2338 (`2023-04-27T12:15:09.237`)
-* CVE-2023-2339 (`2023-04-27T12:15:09.300`)
-* CVE-2023-28769 (`2023-04-27T09:15:09.057`)
-* CVE-2023-28770 (`2023-04-27T09:15:09.850`)
+* CVE-2023-30542 (`2023-04-27T13:23:36.267`)
 
 
 ## Download and Usage
@@ -63,7 +56,7 @@ There are several ways you can work with the data in this repository:
 
 The most straightforward approach is to obtain the latest Data Feed release packages [here](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest).
 
-Each day on 02:00 AM UTC we package and upload json files that aim to reconstruct the legacy NVD CVE Data Feeds.
+Each day at 00:00 AM UTC we package and upload JSON files that aim to reconstruct the legacy NVD CVE Data Feeds.
 Those are aggregated by the `year` part of the CVE identifier:
 
 ```
@@ -78,14 +71,14 @@ CVE-2023.json
 
 We also upload the well-known `Recent` and `Modified` feeds.
 Furthermore, we provide the `All` feed, which contains a recent snapshot of all NVD records.
-Once your local copy is synced and the last sync was no older than 8 days, you can rely on these to stay up to date:
+Once your local copy is synchronized and the last synchronization is no older than 8 days, you can rely on these to stay up to date:
 
 ```plain
 CVE-Recent.json   # CVEs that were added in the previous eight days
 CVE-Modified.json # CVEs that were modified or added in the previous eight days
 ```
 
-Note that all feeds are distributed in `xz`-compressed format to save storage and bandwidth on Github.
+Note that all feeds are distributed in `xz`-compressed format to save storage and bandwidth.
 For decompression execute:
 
 ```sh
@@ -95,7 +88,7 @@ xz -d -k <feed>.json.xz
 
 #### Automation using Release Data Feed Packages
 
-You can fetch the latest releases for each package using the following static link layout:
+You can fetch the latest releases for each package with the following static link layout:
 
 ```sh
 https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CVE-<YEAR>.json.xz
@@ -108,14 +101,14 @@ wget https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CV
 xz -d -k CVE-2023.json.xz
 ```
 
-### 2) Clone the repository (with git history)
+### 2) Clone the Repository (with Git History)
 
-As you can see by browsing this repository, there is a slight difference between the release packages format and the repo folder structure.
+As you can see by browsing this repository, there is a slight difference between the release packages format and the repository folder structure.
 This is because we want to maintain explorability of the dataset.
 
-Each CVE gets its own json file, e.g., `CVE-1999-0001.json`.
+Each CVE gets its own JSON file, e.g., `CVE-1999-0001.json`.
 Here, each file is put into a folder layout that first sorts by CVE `year` identifier part and then by `number` part.
-We mask (`xx`) the last two digits to create easily navigable folders that hold a maximum of 100 CVE jsons:
+We mask (`xx`) the last two digits to create easily navigable folders that hold a maximum of 100 CVE JSON files:
 
 ```plain
 .
@@ -135,15 +128,15 @@ We mask (`xx`) the last two digits to create easily navigable folders that hold 
 └── [...]
 ```
 
-A byproduct of managing and continuously updating this dataset via git is that we can track changes over time through the git history.
+A byproduct of managing and continuously updating this dataset via Git is that we can track changes over time through the Git history.
 
-If you are interested in having the NVD data as organized above, including the historical data of changes, just clone this repo (large!):
+If you are interested in having the NVD data as organized above, including the historical data of changes, just clone this repository (large!):
 
 ```sh
 git clone https://github.com/fkie-cad/nvd-json-data-feeds.git
 ```
 
-### 3) Clone the repository (without git history)
+### 3) Clone the Repository (without Git History)
 
 Don't need the history? Then create a shallow copy:
 
@@ -153,18 +146,18 @@ git clone --depth 1 -b main https://github.com/fkie-cad/nvd-json-data-feeds.git
 
 ## Motivation
 
-As of Sept. 2023, the NIST will retire all [json-based NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds#divRetirementBanner-1).
+As of September 2023, the NIST will retire all [JSON-based NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds#divRetirementBanner-1).
 The new [NVD CVE API 2.0](https://nvd.nist.gov/developers/vulnerabilities) is, without a doubt, a great way to obtain CVE information.
 However, we from [Fraunhofer FKIE - Cyber Analysis and Defense](https://www.fkie.fraunhofer.de/en/departments/cad.html) believe that the API does not cover a variety of use cases.
 
 The legacy NVD Data Feeds provided a convenient way to quickly obtain a complete, file-based offline database snapshot; just download the `CVE-<YEAR>.tar.gz`, decompress it, and use it as you please, e.g.:
 
-* Put the json feed into a document-based database and quickly leverage upon that data in your software project, ...
+* Put the JSON feed into a document-based database and quickly leverage upon that data in your software project, ...
 * Parse and analyze it using your favorite programming language, ...
 * Put it on a USB stick and transfer it to a system without internet access, or ...
 * Query the file using `jq`!
 
-Unfortunately, the new NVD API 2.0 puts complexity into this process.
+Unfortunately, the new NVD API 2.0 adds complexity to this process.
 We want to preserve ease of use by reconstructing these data sources.
 
 ## Non-Endorsement Clause
