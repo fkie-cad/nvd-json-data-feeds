@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-05-02T00:00:24.299710+00:00
+2023-05-02T02:00:24.094027+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-05-01T22:15:09.770000+00:00
+2023-05-02T01:47:55.997000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,7 +23,7 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](releases/latest)
 
 ```plain
-2023-05-01T00:00:20.958822+00:00
+2023-05-02T00:00:20.963354+00:00
 ```
 
 ### Total Number of included CVEs
@@ -34,21 +34,24 @@ Download and Changelog: [Click](releases/latest)
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `0`
 
-* [CVE-2023-26987](CVE-2023/CVE-2023-269xx/CVE-2023-26987.json) (`2023-05-01T22:15:09.483`)
-* [CVE-2023-27035](CVE-2023/CVE-2023-270xx/CVE-2023-27035.json) (`2023-05-01T22:15:09.547`)
-* [CVE-2023-27108](CVE-2023/CVE-2023-271xx/CVE-2023-27108.json) (`2023-05-01T22:15:09.617`)
-* [CVE-2023-29680](CVE-2023/CVE-2023-296xx/CVE-2023-29680.json) (`2023-05-01T22:15:09.673`)
-* [CVE-2023-29681](CVE-2023/CVE-2023-296xx/CVE-2023-29681.json) (`2023-05-01T22:15:09.723`)
-* [CVE-2023-30639](CVE-2023/CVE-2023-306xx/CVE-2023-30639.json) (`2023-05-01T22:15:09.770`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `10`
 
-* [CVE-2022-46705](CVE-2022/CVE-2022-467xx/CVE-2022-46705.json) (`2023-05-01T22:15:09.363`)
+* [CVE-2021-36436](CVE-2021/CVE-2021-364xx/CVE-2021-36436.json) (`2023-05-02T01:47:55.997`)
+* [CVE-2023-20864](CVE-2023/CVE-2023-208xx/CVE-2023-20864.json) (`2023-05-02T00:54:05.037`)
+* [CVE-2023-20865](CVE-2023/CVE-2023-208xx/CVE-2023-20865.json) (`2023-05-02T00:56:29.957`)
+* [CVE-2023-2202](CVE-2023/CVE-2023-22xx/CVE-2023-2202.json) (`2023-05-02T01:07:35.680`)
+* [CVE-2023-22295](CVE-2023/CVE-2023-222xx/CVE-2023-22295.json) (`2023-05-02T01:16:32.677`)
+* [CVE-2023-22321](CVE-2023/CVE-2023-223xx/CVE-2023-22321.json) (`2023-05-02T01:24:09.213`)
+* [CVE-2023-22354](CVE-2023/CVE-2023-223xx/CVE-2023-22354.json) (`2023-05-02T01:30:56.267`)
+* [CVE-2023-22846](CVE-2023/CVE-2023-228xx/CVE-2023-22846.json) (`2023-05-02T01:32:29.167`)
+* [CVE-2023-23579](CVE-2023/CVE-2023-235xx/CVE-2023-23579.json) (`2023-05-02T01:34:54.727`)
+* [CVE-2023-30076](CVE-2023/CVE-2023-300xx/CVE-2023-30076.json) (`2023-05-02T01:10:15.547`)
 
 
 ## Download and Usage
