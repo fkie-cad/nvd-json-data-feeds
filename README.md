@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-05-07T02:00:25.114131+00:00
+2023-05-07T04:00:23.960972+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-05-07T00:15:09.023000+00:00
+2023-05-07T03:15:14.460000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,20 +29,33 @@ Download and Changelog: [Click](releases/latest)
 ### Total Number of included CVEs
 
 ```plain
-214183
+214185
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `2`
 
-* [CVE-2023-24400](CVE-2023/CVE-2023-244xx/CVE-2023-24400.json) (`2023-05-07T00:15:09.023`)
+* [CVE-2023-31047](CVE-2023/CVE-2023-310xx/CVE-2023-31047.json) (`2023-05-07T02:15:08.917`)
+* [CVE-2023-32290](CVE-2023/CVE-2023-322xx/CVE-2023-32290.json) (`2023-05-07T02:15:09.360`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `12`
 
+* [CVE-2023-1786](CVE-2023/CVE-2023-17xx/CVE-2023-1786.json) (`2023-05-07T03:15:13.733`)
+* [CVE-2023-2459](CVE-2023/CVE-2023-24xx/CVE-2023-2459.json) (`2023-05-07T03:15:14.067`)
+* [CVE-2023-2460](CVE-2023/CVE-2023-24xx/CVE-2023-2460.json) (`2023-05-07T03:15:14.127`)
+* [CVE-2023-2461](CVE-2023/CVE-2023-24xx/CVE-2023-2461.json) (`2023-05-07T03:15:14.170`)
+* [CVE-2023-2462](CVE-2023/CVE-2023-24xx/CVE-2023-2462.json) (`2023-05-07T03:15:14.210`)
+* [CVE-2023-2463](CVE-2023/CVE-2023-24xx/CVE-2023-2463.json) (`2023-05-07T03:15:14.257`)
+* [CVE-2023-2464](CVE-2023/CVE-2023-24xx/CVE-2023-2464.json) (`2023-05-07T03:15:14.300`)
+* [CVE-2023-2465](CVE-2023/CVE-2023-24xx/CVE-2023-2465.json) (`2023-05-07T03:15:14.340`)
+* [CVE-2023-2466](CVE-2023/CVE-2023-24xx/CVE-2023-2466.json) (`2023-05-07T03:15:14.380`)
+* [CVE-2023-2467](CVE-2023/CVE-2023-24xx/CVE-2023-2467.json) (`2023-05-07T03:15:14.423`)
+* [CVE-2023-2468](CVE-2023/CVE-2023-24xx/CVE-2023-2468.json) (`2023-05-07T03:15:14.460`)
+* [CVE-2023-26964](CVE-2023/CVE-2023-269xx/CVE-2023-26964.json) (`2023-05-07T03:15:13.940`)
 
 
 ## Download and Usage
