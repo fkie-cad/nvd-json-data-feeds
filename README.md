@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-05-07T16:00:24.283671+00:00
+2023-05-08T02:00:24.483182+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-05-07T15:15:08.813000+00:00
+2023-05-08T01:15:08.920000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,27 +23,33 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](releases/latest)
 
 ```plain
-2023-05-07T00:00:20.963203+00:00
+2023-05-08T00:00:20.958367+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-214187
+214190
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `2`
+Recently added CVEs: `3`
 
-* [CVE-2023-2564](CVE-2023/CVE-2023-25xx/CVE-2023-2564.json) (`2023-05-07T14:15:42.343`)
-* [CVE-2023-2565](CVE-2023/CVE-2023-25xx/CVE-2023-2565.json) (`2023-05-07T15:15:08.813`)
+* [CVE-2023-29944](CVE-2023/CVE-2023-299xx/CVE-2023-29944.json) (`2023-05-08T01:15:08.830`)
+* [CVE-2023-30185](CVE-2023/CVE-2023-301xx/CVE-2023-30185.json) (`2023-05-08T01:15:08.877`)
+* [CVE-2023-30257](CVE-2023/CVE-2023-302xx/CVE-2023-30257.json) (`2023-05-08T01:15:08.920`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `5`
 
+* [CVE-2023-30264](CVE-2023/CVE-2023-302xx/CVE-2023-30264.json) (`2023-05-08T00:15:09.220`)
+* [CVE-2023-30266](CVE-2023/CVE-2023-302xx/CVE-2023-30266.json) (`2023-05-08T00:15:09.323`)
+* [CVE-2023-31484](CVE-2023/CVE-2023-314xx/CVE-2023-31484.json) (`2023-05-08T00:15:09.433`)
+* [CVE-2023-31485](CVE-2023/CVE-2023-314xx/CVE-2023-31485.json) (`2023-05-08T00:15:09.517`)
+* [CVE-2023-31486](CVE-2023/CVE-2023-314xx/CVE-2023-31486.json) (`2023-05-08T00:15:09.577`)
 
 
 ## Download and Usage
