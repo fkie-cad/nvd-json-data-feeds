@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-05-24T10:00:26.812996+00:00
+2023-05-24T12:00:26.697187+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-05-24T09:15:09.307000+00:00
+2023-05-24T11:15:09.317000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,15 +29,17 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-215891
+215895
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `2`
+Recently added CVEs: `4`
 
-* [CVE-2022-0357](CVE-2022/CVE-2022-03xx/CVE-2022-0357.json) (`2023-05-24T08:15:08.957`)
-* [CVE-2023-2859](CVE-2023/CVE-2023-28xx/CVE-2023-2859.json) (`2023-05-24T08:15:09.713`)
+* [CVE-2023-2862](CVE-2023/CVE-2023-28xx/CVE-2023-2862.json) (`2023-05-24T10:15:09.283`)
+* [CVE-2023-2863](CVE-2023/CVE-2023-28xx/CVE-2023-2863.json) (`2023-05-24T10:15:09.407`)
+* [CVE-2023-2864](CVE-2023/CVE-2023-28xx/CVE-2023-2864.json) (`2023-05-24T11:15:09.237`)
+* [CVE-2023-2865](CVE-2023/CVE-2023-28xx/CVE-2023-2865.json) (`2023-05-24T11:15:09.317`)
 
 
 ### CVEs modified in the last Commit
@@ -52,7 +54,7 @@ There are several ways you can work with the data in this repository:
 
 ### 1) Release Data Feed Packages
 
-The most straightforward approach is to obtain the latest Data Feed release packages [here](releases/latest).
+The most straightforward approach is to obtain the latest Data Feed release packages [here](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest).
 
 Each day at 00:00 AM UTC we package and upload JSON files that aim to reconstruct the legacy NVD CVE Data Feeds.
 Those are aggregated by the `year` part of the CVE identifier:
