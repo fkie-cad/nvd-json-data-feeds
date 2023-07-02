@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-07-01T08:00:26.246119+00:00
+2023-07-02T04:00:27.128146+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-07-01T06:15:10.707000+00:00
+2023-07-02T03:15:16.900000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,7 +23,7 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2023-07-01T00:00:13.569233+00:00
+2023-07-02T00:00:13.560170+00:00
 ```
 
 ### Total Number of included CVEs
@@ -34,32 +34,15 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `15`
+Recently added CVEs: `0`
 
-* [CVE-2020-36746](CVE-2020/CVE-2020-367xx/CVE-2020-36746.json) (`2023-07-01T06:15:09.157`)
-* [CVE-2020-36747](CVE-2020/CVE-2020-367xx/CVE-2020-36747.json) (`2023-07-01T06:15:09.350`)
-* [CVE-2020-36748](CVE-2020/CVE-2020-367xx/CVE-2020-36748.json) (`2023-07-01T06:15:09.433`)
-* [CVE-2020-36749](CVE-2020/CVE-2020-367xx/CVE-2020-36749.json) (`2023-07-01T06:15:09.517`)
-* [CVE-2021-4395](CVE-2021/CVE-2021-43xx/CVE-2021-4395.json) (`2023-07-01T06:15:09.617`)
-* [CVE-2021-4396](CVE-2021/CVE-2021-43xx/CVE-2021-4396.json) (`2023-07-01T06:15:09.690`)
-* [CVE-2021-4397](CVE-2021/CVE-2021-43xx/CVE-2021-4397.json) (`2023-07-01T06:15:09.770`)
-* [CVE-2021-4398](CVE-2021/CVE-2021-43xx/CVE-2021-4398.json) (`2023-07-01T06:15:09.843`)
-* [CVE-2021-4399](CVE-2021/CVE-2021-43xx/CVE-2021-4399.json) (`2023-07-01T06:15:09.917`)
-* [CVE-2021-4400](CVE-2021/CVE-2021-44xx/CVE-2021-4400.json) (`2023-07-01T06:15:09.987`)
-* [CVE-2021-4401](CVE-2021/CVE-2021-44xx/CVE-2021-4401.json) (`2023-07-01T06:15:10.067`)
-* [CVE-2021-4402](CVE-2021/CVE-2021-44xx/CVE-2021-4402.json) (`2023-07-01T06:15:10.137`)
-* [CVE-2021-4403](CVE-2021/CVE-2021-44xx/CVE-2021-4403.json) (`2023-07-01T06:15:10.210`)
-* [CVE-2021-4404](CVE-2021/CVE-2021-44xx/CVE-2021-4404.json) (`2023-07-01T06:15:10.297`)
-* [CVE-2021-4405](CVE-2021/CVE-2021-44xx/CVE-2021-4405.json) (`2023-07-01T06:15:10.380`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `3`
+Recently modified CVEs: `1`
 
-* [CVE-2022-38900](CVE-2022/CVE-2022-389xx/CVE-2022-38900.json) (`2023-07-01T06:15:10.473`)
-* [CVE-2023-2431](CVE-2023/CVE-2023-24xx/CVE-2023-2431.json) (`2023-07-01T06:15:10.603`)
-* [CVE-2023-32439](CVE-2023/CVE-2023-324xx/CVE-2023-32439.json) (`2023-07-01T06:15:10.707`)
+* [CVE-2023-33204](CVE-2023/CVE-2023-332xx/CVE-2023-33204.json) (`2023-07-02T03:15:16.900`)
 
 
 ## Download and Usage
