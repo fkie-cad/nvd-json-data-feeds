@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-07-18T04:00:41.593036+00:00
+2023-07-18T06:00:25.607393+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-07-18T03:15:56.207000+00:00
+2023-07-18T05:15:09.603000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,33 +29,20 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-220506
+220507
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `13`
+Recently added CVEs: `1`
 
-* [CVE-2020-36695](CVE-2020/CVE-2020-366xx/CVE-2020-36695.json) (`2023-07-18T03:15:52.963`)
-* [CVE-2021-43072](CVE-2021/CVE-2021-430xx/CVE-2021-43072.json) (`2023-07-18T03:15:54.947`)
-* [CVE-2022-4146](CVE-2022/CVE-2022-41xx/CVE-2022-4146.json) (`2023-07-18T03:15:55.067`)
-* [CVE-2023-31998](CVE-2023/CVE-2023-319xx/CVE-2023-31998.json) (`2023-07-18T03:15:55.163`)
-* [CVE-2023-34142](CVE-2023/CVE-2023-341xx/CVE-2023-34142.json) (`2023-07-18T03:15:55.427`)
-* [CVE-2023-34143](CVE-2023/CVE-2023-341xx/CVE-2023-34143.json) (`2023-07-18T03:15:55.510`)
-* [CVE-2023-38434](CVE-2023/CVE-2023-384xx/CVE-2023-38434.json) (`2023-07-18T03:15:55.610`)
-* [CVE-2023-3403](CVE-2023/CVE-2023-34xx/CVE-2023-3403.json) (`2023-07-18T03:15:55.673`)
-* [CVE-2023-3459](CVE-2023/CVE-2023-34xx/CVE-2023-3459.json) (`2023-07-18T03:15:55.793`)
-* [CVE-2023-3708](CVE-2023/CVE-2023-37xx/CVE-2023-3708.json) (`2023-07-18T03:15:55.897`)
-* [CVE-2023-3709](CVE-2023/CVE-2023-37xx/CVE-2023-3709.json) (`2023-07-18T03:15:56.010`)
-* [CVE-2023-3713](CVE-2023/CVE-2023-37xx/CVE-2023-3713.json) (`2023-07-18T03:15:56.110`)
-* [CVE-2023-3714](CVE-2023/CVE-2023-37xx/CVE-2023-3714.json) (`2023-07-18T03:15:56.207`)
+* [CVE-2015-10122](CVE-2015/CVE-2015-101xx/CVE-2015-10122.json) (`2023-07-18T05:15:09.603`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-* [CVE-2023-34139](CVE-2023/CVE-2023-341xx/CVE-2023-34139.json) (`2023-07-18T03:15:55.260`)
 
 
 ## Download and Usage
