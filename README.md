@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-07-19T10:01:10.650464+00:00
+2023-07-19T12:00:25.657455+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-07-19T08:15:10.313000+00:00
+2023-07-19T11:53:32.750000+00:00
 ```
 
 ### Last Data Feed Release
@@ -34,28 +34,15 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `0`
 
-* [CVE-2023-32635](CVE-2023/CVE-2023-326xx/CVE-2023-32635.json) (`2023-07-19T06:15:12.787`)
-* [CVE-2023-3760](CVE-2023/CVE-2023-37xx/CVE-2023-3760.json) (`2023-07-19T06:15:13.470`)
-* [CVE-2023-3761](CVE-2023/CVE-2023-37xx/CVE-2023-3761.json) (`2023-07-19T06:15:13.897`)
-* [CVE-2023-3762](CVE-2023/CVE-2023-37xx/CVE-2023-3762.json) (`2023-07-19T07:15:08.813`)
-* [CVE-2023-3763](CVE-2023/CVE-2023-37xx/CVE-2023-3763.json) (`2023-07-19T07:15:09.007`)
-* [CVE-2023-28754](CVE-2023/CVE-2023-287xx/CVE-2023-28754.json) (`2023-07-19T08:15:10.117`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `8`
+Recently modified CVEs: `1`
 
-* [CVE-2022-24834](CVE-2022/CVE-2022-248xx/CVE-2022-24834.json) (`2023-07-19T06:15:09.627`)
-* [CVE-2022-3923](CVE-2022/CVE-2022-39xx/CVE-2022-3923.json) (`2023-07-19T08:15:09.837`)
-* [CVE-2022-4057](CVE-2022/CVE-2022-40xx/CVE-2022-4057.json) (`2023-07-19T08:15:10.010`)
-* [CVE-2023-0003](CVE-2023/CVE-2023-00xx/CVE-2023-0003.json) (`2023-07-19T06:15:11.573`)
-* [CVE-2023-30589](CVE-2023/CVE-2023-305xx/CVE-2023-30589.json) (`2023-07-19T06:15:12.430`)
-* [CVE-2023-36824](CVE-2023/CVE-2023-368xx/CVE-2023-36824.json) (`2023-07-19T06:15:13.107`)
-* [CVE-2023-35887](CVE-2023/CVE-2023-358xx/CVE-2023-35887.json) (`2023-07-19T08:15:10.200`)
-* [CVE-2023-3076](CVE-2023/CVE-2023-30xx/CVE-2023-3076.json) (`2023-07-19T08:15:10.313`)
+* [CVE-2020-36750](CVE-2020/CVE-2020-367xx/CVE-2020-36750.json) (`2023-07-19T11:53:32.750`)
 
 
 ## Download and Usage
