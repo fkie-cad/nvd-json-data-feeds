@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-08-01T04:00:26.515792+00:00
+2023-08-01T06:00:31.734805+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-08-01T02:15:10.677000+00:00
+2023-08-01T05:15:34.843000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,32 +29,21 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-221354
+221355
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `4`
+Recently added CVEs: `1`
 
-* [CVE-2020-10962](CVE-2020/CVE-2020-109xx/CVE-2020-10962.json) (`2023-08-01T02:15:09.687`)
-* [CVE-2023-34960](CVE-2023/CVE-2023-349xx/CVE-2023-34960.json) (`2023-08-01T02:15:10.307`)
-* [CVE-2023-36983](CVE-2023/CVE-2023-369xx/CVE-2023-36983.json) (`2023-08-01T02:15:10.450`)
-* [CVE-2023-36984](CVE-2023/CVE-2023-369xx/CVE-2023-36984.json) (`2023-08-01T02:15:10.510`)
+* [CVE-2023-26139](CVE-2023/CVE-2023-261xx/CVE-2023-26139.json) (`2023-08-01T05:15:34.843`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `9`
+Recently modified CVEs: `1`
 
-* [CVE-2021-37384](CVE-2021/CVE-2021-373xx/CVE-2021-37384.json) (`2023-08-01T02:15:09.783`)
-* [CVE-2023-25433](CVE-2023/CVE-2023-254xx/CVE-2023-25433.json) (`2023-08-01T02:15:09.910`)
-* [CVE-2023-26965](CVE-2023/CVE-2023-269xx/CVE-2023-26965.json) (`2023-08-01T02:15:10.003`)
-* [CVE-2023-26966](CVE-2023/CVE-2023-269xx/CVE-2023-26966.json) (`2023-08-01T02:15:10.080`)
-* [CVE-2023-2908](CVE-2023/CVE-2023-29xx/CVE-2023-2908.json) (`2023-08-01T02:15:10.147`)
-* [CVE-2023-30577](CVE-2023/CVE-2023-305xx/CVE-2023-30577.json) (`2023-08-01T02:15:10.243`)
-* [CVE-2023-36884](CVE-2023/CVE-2023-368xx/CVE-2023-36884.json) (`2023-08-01T02:15:10.363`)
-* [CVE-2023-3316](CVE-2023/CVE-2023-33xx/CVE-2023-3316.json) (`2023-08-01T02:15:10.577`)
-* [CVE-2023-3618](CVE-2023/CVE-2023-36xx/CVE-2023-3618.json) (`2023-08-01T02:15:10.677`)
+* [CVE-2021-43756](CVE-2021/CVE-2021-437xx/CVE-2021-43756.json) (`2023-08-01T04:15:30.323`)
 
 
 ## Download and Usage
