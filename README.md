@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-08-11T23:55:27.934147+00:00
+2023-08-12T02:00:28.950024+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-08-11T23:37:49.807000+00:00
+2023-08-12T01:15:45.177000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,7 +23,7 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2023-08-11T00:00:13.576168+00:00
+2023-08-12T00:00:13.561761+00:00
 ```
 
 ### Total Number of included CVEs
@@ -40,20 +40,10 @@ Recently added CVEs: `0`
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `12`
+Recently modified CVEs: `2`
 
-* [CVE-2023-3526](CVE-2023/CVE-2023-35xx/CVE-2023-3526.json) (`2023-08-11T22:15:09.430`)
-* [CVE-2023-3569](CVE-2023/CVE-2023-35xx/CVE-2023-3569.json) (`2023-08-11T22:15:10.113`)
-* [CVE-2023-4202](CVE-2023/CVE-2023-42xx/CVE-2023-4202.json) (`2023-08-11T22:15:10.297`)
-* [CVE-2023-4203](CVE-2023/CVE-2023-42xx/CVE-2023-4203.json) (`2023-08-11T22:15:10.457`)
-* [CVE-2023-39007](CVE-2023/CVE-2023-390xx/CVE-2023-39007.json) (`2023-08-11T23:04:47.267`)
-* [CVE-2023-36313](CVE-2023/CVE-2023-363xx/CVE-2023-36313.json) (`2023-08-11T23:15:22.967`)
-* [CVE-2023-36312](CVE-2023/CVE-2023-363xx/CVE-2023-36312.json) (`2023-08-11T23:20:58.913`)
-* [CVE-2023-36314](CVE-2023/CVE-2023-363xx/CVE-2023-36314.json) (`2023-08-11T23:25:59.260`)
-* [CVE-2023-38529](CVE-2023/CVE-2023-385xx/CVE-2023-38529.json) (`2023-08-11T23:27:51.933`)
-* [CVE-2023-28464](CVE-2023/CVE-2023-284xx/CVE-2023-28464.json) (`2023-08-11T23:28:44.957`)
-* [CVE-2023-40041](CVE-2023/CVE-2023-400xx/CVE-2023-40041.json) (`2023-08-11T23:35:53.310`)
-* [CVE-2023-40042](CVE-2023/CVE-2023-400xx/CVE-2023-40042.json) (`2023-08-11T23:37:49.807`)
+* [CVE-2022-40982](CVE-2022/CVE-2022-409xx/CVE-2022-40982.json) (`2023-08-12T01:15:45.177`)
+* [CVE-2023-24329](CVE-2023/CVE-2023-243xx/CVE-2023-24329.json) (`2023-08-12T00:15:49.533`)
 
 
 ## Download and Usage
