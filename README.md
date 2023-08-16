@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-08-16T04:00:30.518548+00:00
+2023-08-16T06:00:35.231234+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-08-16T03:15:29.050000+00:00
+2023-08-16T05:15:10.357000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,30 +29,22 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-222767
+222770
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `3`
 
+* [CVE-2023-26140](CVE-2023/CVE-2023-261xx/CVE-2023-26140.json) (`2023-08-16T05:15:09.810`)
+* [CVE-2023-3958](CVE-2023/CVE-2023-39xx/CVE-2023-3958.json) (`2023-08-16T05:15:10.220`)
+* [CVE-2023-4374](CVE-2023/CVE-2023-43xx/CVE-2023-4374.json) (`2023-08-16T05:15:10.357`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `11`
+Recently modified CVEs: `0`
 
-* [CVE-2019-19921](CVE-2019/CVE-2019-199xx/CVE-2019-19921.json) (`2023-08-16T03:15:09.430`)
-* [CVE-2022-40982](CVE-2022/CVE-2022-409xx/CVE-2022-40982.json) (`2023-08-16T03:15:11.310`)
-* [CVE-2022-41804](CVE-2022/CVE-2022-418xx/CVE-2022-41804.json) (`2023-08-16T03:15:22.103`)
-* [CVE-2023-0871](CVE-2023/CVE-2023-08xx/CVE-2023-0871.json) (`2023-08-16T03:15:25.313`)
-* [CVE-2023-20569](CVE-2023/CVE-2023-205xx/CVE-2023-20569.json) (`2023-08-16T03:15:26.010`)
-* [CVE-2023-23908](CVE-2023/CVE-2023-239xx/CVE-2023-23908.json) (`2023-08-16T03:15:26.350`)
-* [CVE-2023-27561](CVE-2023/CVE-2023-275xx/CVE-2023-27561.json) (`2023-08-16T03:15:26.440`)
-* [CVE-2023-32003](CVE-2023/CVE-2023-320xx/CVE-2023-32003.json) (`2023-08-16T03:15:28.467`)
-* [CVE-2023-32004](CVE-2023/CVE-2023-320xx/CVE-2023-32004.json) (`2023-08-16T03:15:28.537`)
-* [CVE-2023-32006](CVE-2023/CVE-2023-320xx/CVE-2023-32006.json) (`2023-08-16T03:15:28.987`)
-* [CVE-2023-38559](CVE-2023/CVE-2023-385xx/CVE-2023-38559.json) (`2023-08-16T03:15:29.050`)
 
 
 ## Download and Usage
