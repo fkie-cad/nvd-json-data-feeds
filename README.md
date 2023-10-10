@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-10-09T23:55:24.734270+00:00
+2023-10-10T02:00:25.290040+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-10-09T22:15:12.937000+00:00
+2023-10-10T01:15:10.400000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,29 +23,34 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2023-10-09T00:00:13.552919+00:00
+2023-10-10T00:00:13.573507+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-227266
+227270
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `4`
 
-* [CVE-2023-43641](CVE-2023/CVE-2023-436xx/CVE-2023-43641.json) (`2023-10-09T22:15:12.707`)
-* [CVE-2023-43899](CVE-2023/CVE-2023-438xx/CVE-2023-43899.json) (`2023-10-09T22:15:12.807`)
-* [CVE-2023-5462](CVE-2023/CVE-2023-54xx/CVE-2023-5462.json) (`2023-10-09T22:15:12.863`)
-* [CVE-2023-5463](CVE-2023/CVE-2023-54xx/CVE-2023-5463.json) (`2023-10-09T22:15:12.937`)
+* [CVE-2023-44846](CVE-2023/CVE-2023-448xx/CVE-2023-44846.json) (`2023-10-10T01:15:10.240`)
+* [CVE-2023-44847](CVE-2023/CVE-2023-448xx/CVE-2023-44847.json) (`2023-10-10T01:15:10.300`)
+* [CVE-2023-44848](CVE-2023/CVE-2023-448xx/CVE-2023-44848.json) (`2023-10-10T01:15:10.353`)
+* [CVE-2023-5471](CVE-2023/CVE-2023-54xx/CVE-2023-5471.json) (`2023-10-10T01:15:10.400`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `5`
 
+* [CVE-2022-41352](CVE-2022/CVE-2022-413xx/CVE-2022-41352.json) (`2023-10-10T00:15:10.297`)
+* [CVE-2023-42754](CVE-2023/CVE-2023-427xx/CVE-2023-42754.json) (`2023-10-10T00:15:10.430`)
+* [CVE-2023-42756](CVE-2023/CVE-2023-427xx/CVE-2023-42756.json) (`2023-10-10T00:15:10.507`)
+* [CVE-2023-45239](CVE-2023/CVE-2023-452xx/CVE-2023-45239.json) (`2023-10-10T00:15:10.593`)
+* [CVE-2023-5345](CVE-2023/CVE-2023-53xx/CVE-2023-5345.json) (`2023-10-10T00:15:10.663`)
 
 
 ## Download and Usage
