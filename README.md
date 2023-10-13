@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-10-13T08:00:26.015634+00:00
+2023-10-13T12:00:25.434288+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-10-13T07:15:41.577000+00:00
+2023-10-13T10:15:10.640000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,29 +29,24 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-227733
+227737
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `9`
+Recently added CVEs: `4`
 
-* [CVE-2023-26366](CVE-2023/CVE-2023-263xx/CVE-2023-26366.json) (`2023-10-13T07:15:38.933`)
-* [CVE-2023-26367](CVE-2023/CVE-2023-263xx/CVE-2023-26367.json) (`2023-10-13T07:15:39.767`)
-* [CVE-2023-38218](CVE-2023/CVE-2023-382xx/CVE-2023-38218.json) (`2023-10-13T07:15:40.047`)
-* [CVE-2023-38219](CVE-2023/CVE-2023-382xx/CVE-2023-38219.json) (`2023-10-13T07:15:40.327`)
-* [CVE-2023-38220](CVE-2023/CVE-2023-382xx/CVE-2023-38220.json) (`2023-10-13T07:15:40.557`)
-* [CVE-2023-38221](CVE-2023/CVE-2023-382xx/CVE-2023-38221.json) (`2023-10-13T07:15:40.777`)
-* [CVE-2023-38249](CVE-2023/CVE-2023-382xx/CVE-2023-38249.json) (`2023-10-13T07:15:41.037`)
-* [CVE-2023-38250](CVE-2023/CVE-2023-382xx/CVE-2023-38250.json) (`2023-10-13T07:15:41.420`)
-* [CVE-2023-38251](CVE-2023/CVE-2023-382xx/CVE-2023-38251.json) (`2023-10-13T07:15:41.577`)
+* [CVE-2023-38000](CVE-2023/CVE-2023-380xx/CVE-2023-38000.json) (`2023-10-13T10:15:09.823`)
+* [CVE-2023-5571](CVE-2023/CVE-2023-55xx/CVE-2023-5571.json) (`2023-10-13T10:15:10.457`)
+* [CVE-2023-5572](CVE-2023/CVE-2023-55xx/CVE-2023-5572.json) (`2023-10-13T10:15:10.573`)
+* [CVE-2023-5573](CVE-2023/CVE-2023-55xx/CVE-2023-5573.json) (`2023-10-13T10:15:10.640`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `1`
 
-* [CVE-2023-5554](CVE-2023/CVE-2023-55xx/CVE-2023-5554.json) (`2023-10-13T06:15:51.553`)
+* [CVE-2023-3589](CVE-2023/CVE-2023-35xx/CVE-2023-3589.json) (`2023-10-13T10:15:10.090`)
 
 
 ## Download and Usage
