@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-11-04T15:00:20.433374+00:00
+2023-11-04T23:00:19.317035+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-11-04T14:15:39.767000+00:00
+2023-11-04T22:15:08.517000+00:00
 ```
 
 ### Last Data Feed Release
@@ -42,7 +42,7 @@ Recently added CVEs: `0`
 
 Recently modified CVEs: `1`
 
-* [CVE-2023-41915](CVE-2023/CVE-2023-419xx/CVE-2023-41915.json) (`2023-11-04T14:15:39.767`)
+* [CVE-2023-47233](CVE-2023/CVE-2023-472xx/CVE-2023-47233.json) (`2023-11-04T22:15:08.517`)
 
 
 ## Download and Usage
