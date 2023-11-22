@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-11-22T11:00:18.914038+00:00
+2023-11-22T13:00:18.605531+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-11-22T10:15:09.530000+00:00
+2023-11-22T12:15:22.963000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,27 +29,26 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-231276
+231281
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `5`
 
-* [CVE-2023-5921](CVE-2023/CVE-2023-59xx/CVE-2023-5921.json) (`2023-11-22T09:15:07.690`)
-* [CVE-2023-6011](CVE-2023/CVE-2023-60xx/CVE-2023-6011.json) (`2023-11-22T09:15:07.927`)
-* [CVE-2023-37924](CVE-2023/CVE-2023-379xx/CVE-2023-37924.json) (`2023-11-22T10:15:07.577`)
-* [CVE-2023-46673](CVE-2023/CVE-2023-466xx/CVE-2023-46673.json) (`2023-11-22T10:15:08.417`)
-* [CVE-2023-6117](CVE-2023/CVE-2023-61xx/CVE-2023-6117.json) (`2023-11-22T10:15:09.037`)
-* [CVE-2023-6189](CVE-2023/CVE-2023-61xx/CVE-2023-6189.json) (`2023-11-22T10:15:09.530`)
+* [CVE-2023-3103](CVE-2023/CVE-2023-31xx/CVE-2023-3103.json) (`2023-11-22T12:15:22.160`)
+* [CVE-2023-3104](CVE-2023/CVE-2023-31xx/CVE-2023-3104.json) (`2023-11-22T12:15:22.400`)
+* [CVE-2023-5047](CVE-2023/CVE-2023-50xx/CVE-2023-5047.json) (`2023-11-22T12:15:22.587`)
+* [CVE-2023-5983](CVE-2023/CVE-2023-59xx/CVE-2023-5983.json) (`2023-11-22T12:15:22.777`)
+* [CVE-2023-6253](CVE-2023/CVE-2023-62xx/CVE-2023-6253.json) (`2023-11-22T12:15:22.963`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `2`
 
-* [CVE-2022-45875](CVE-2022/CVE-2022-458xx/CVE-2022-45875.json) (`2023-11-22T09:15:07.470`)
-* [CVE-2023-46595](CVE-2023/CVE-2023-465xx/CVE-2023-46595.json) (`2023-11-22T10:15:07.977`)
+* [CVE-2021-4035](CVE-2021/CVE-2021-40xx/CVE-2021-4035.json) (`2023-11-22T11:15:07.533`)
+* [CVE-2021-4046](CVE-2021/CVE-2021-40xx/CVE-2021-4046.json) (`2023-11-22T12:15:21.930`)
 
 
 ## Download and Usage
