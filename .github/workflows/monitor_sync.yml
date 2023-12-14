@@ -1,10 +1,10 @@
-name: monitor-release
+name: monitor-sync
 on:
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 22 * * *"
   workflow_dispatch: {}
 jobs:
-  monitor-release:
+  monitor-sync:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -12,11 +12,12 @@ jobs:
       - uses: actions/checkout@v4
       - run: |
           git fetch --prune --unshallow --tags
-          latest_release=$(git describe --abbrev=0 --tags | grep -oP "\d+\.\d+\.\d+")
+          latest_commit=$(git log -1 --format="%at" | xargs -I{} date -d @{} "+%Y.%m.%d")
           cur=$(date +"%Y.%m.%d")
-          if [ "$latest_release" != "$cur" ]; then
-            >&2 echo "Error: Daily release failed!"
-            exit 100
+
+          if [ "$latest_commit" != "$cur" ]; then
+            >&2 echo "Warning: No repository sync for one or more days"
+            exit 101
           fi
           exit 0
         env:
