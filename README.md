@@ -1,6 +1,6 @@
 # nvd-json-data-feeds
 
-Community reconstruction of the soon-to-be deprecated JSON NVD Data Feeds. 
+Community reconstruction of the deprecated JSON NVD Data Feeds. 
 [Releases](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest) each day at 00:00 AM UTC.
 Repository synchronizes with the NVD every 2 hours.
 
@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-12-15T11:00:24.169129+00:00
+2023-12-15T13:00:24.024152+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-12-15T10:15:10+00:00
+2023-12-15T12:15:44.130000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,43 +23,52 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2023-12-14T16:00:10.769732+00:00
+2023-12-15T12:45:17.724282+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-233272
+233467
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `18`
+Recently added CVEs: `195`
 
-* [CVE-2023-29234](CVE-2023/CVE-2023-292xx/CVE-2023-29234.json) (`2023-12-15T09:15:07.380`)
-* [CVE-2023-46279](CVE-2023/CVE-2023-462xx/CVE-2023-46279.json) (`2023-12-15T09:15:07.490`)
-* [CVE-2023-48380](CVE-2023/CVE-2023-483xx/CVE-2023-48380.json) (`2023-12-15T09:15:07.577`)
-* [CVE-2023-48381](CVE-2023/CVE-2023-483xx/CVE-2023-48381.json) (`2023-12-15T09:15:07.773`)
-* [CVE-2023-48382](CVE-2023/CVE-2023-483xx/CVE-2023-48382.json) (`2023-12-15T09:15:07.967`)
-* [CVE-2023-48384](CVE-2023/CVE-2023-483xx/CVE-2023-48384.json) (`2023-12-15T09:15:08.160`)
-* [CVE-2023-48387](CVE-2023/CVE-2023-483xx/CVE-2023-48387.json) (`2023-12-15T09:15:08.357`)
-* [CVE-2023-48388](CVE-2023/CVE-2023-483xx/CVE-2023-48388.json) (`2023-12-15T09:15:08.550`)
-* [CVE-2023-48389](CVE-2023/CVE-2023-483xx/CVE-2023-48389.json) (`2023-12-15T09:15:08.760`)
-* [CVE-2023-48390](CVE-2023/CVE-2023-483xx/CVE-2023-48390.json) (`2023-12-15T09:15:08.950`)
-* [CVE-2023-48392](CVE-2023/CVE-2023-483xx/CVE-2023-48392.json) (`2023-12-15T10:15:07.590`)
-* [CVE-2023-48393](CVE-2023/CVE-2023-483xx/CVE-2023-48393.json) (`2023-12-15T10:15:07.927`)
-* [CVE-2023-48394](CVE-2023/CVE-2023-483xx/CVE-2023-48394.json) (`2023-12-15T10:15:08.237`)
-* [CVE-2023-48395](CVE-2023/CVE-2023-483xx/CVE-2023-48395.json) (`2023-12-15T10:15:08.590`)
-* [CVE-2023-6835](CVE-2023/CVE-2023-68xx/CVE-2023-6835.json) (`2023-12-15T10:15:09.043`)
-* [CVE-2023-6836](CVE-2023/CVE-2023-68xx/CVE-2023-6836.json) (`2023-12-15T10:15:09.407`)
-* [CVE-2023-6837](CVE-2023/CVE-2023-68xx/CVE-2023-6837.json) (`2023-12-15T10:15:09.767`)
-* [CVE-2023-6838](CVE-2023/CVE-2023-68xx/CVE-2023-6838.json) (`2023-12-15T10:15:10.000`)
+* [CVE-2023-48607](CVE-2023/CVE-2023-486xx/CVE-2023-48607.json) (`2023-12-15T11:15:44.123`)
+* [CVE-2023-48608](CVE-2023/CVE-2023-486xx/CVE-2023-48608.json) (`2023-12-15T11:15:44.327`)
+* [CVE-2023-48609](CVE-2023/CVE-2023-486xx/CVE-2023-48609.json) (`2023-12-15T11:15:44.533`)
+* [CVE-2023-48610](CVE-2023/CVE-2023-486xx/CVE-2023-48610.json) (`2023-12-15T11:15:44.723`)
+* [CVE-2023-48611](CVE-2023/CVE-2023-486xx/CVE-2023-48611.json) (`2023-12-15T11:15:44.927`)
+* [CVE-2023-48612](CVE-2023/CVE-2023-486xx/CVE-2023-48612.json) (`2023-12-15T11:15:45.120`)
+* [CVE-2023-48613](CVE-2023/CVE-2023-486xx/CVE-2023-48613.json) (`2023-12-15T11:15:45.310`)
+* [CVE-2023-48614](CVE-2023/CVE-2023-486xx/CVE-2023-48614.json) (`2023-12-15T11:15:45.510`)
+* [CVE-2023-48615](CVE-2023/CVE-2023-486xx/CVE-2023-48615.json) (`2023-12-15T11:15:45.710`)
+* [CVE-2023-48616](CVE-2023/CVE-2023-486xx/CVE-2023-48616.json) (`2023-12-15T11:15:45.930`)
+* [CVE-2023-48617](CVE-2023/CVE-2023-486xx/CVE-2023-48617.json) (`2023-12-15T11:15:46.137`)
+* [CVE-2023-48618](CVE-2023/CVE-2023-486xx/CVE-2023-48618.json) (`2023-12-15T11:15:46.333`)
+* [CVE-2023-48619](CVE-2023/CVE-2023-486xx/CVE-2023-48619.json) (`2023-12-15T11:15:46.533`)
+* [CVE-2023-48620](CVE-2023/CVE-2023-486xx/CVE-2023-48620.json) (`2023-12-15T11:15:46.740`)
+* [CVE-2023-48621](CVE-2023/CVE-2023-486xx/CVE-2023-48621.json) (`2023-12-15T11:15:46.930`)
+* [CVE-2023-48622](CVE-2023/CVE-2023-486xx/CVE-2023-48622.json) (`2023-12-15T11:15:47.167`)
+* [CVE-2023-48623](CVE-2023/CVE-2023-486xx/CVE-2023-48623.json) (`2023-12-15T11:15:47.393`)
+* [CVE-2023-48624](CVE-2023/CVE-2023-486xx/CVE-2023-48624.json) (`2023-12-15T11:15:47.630`)
+* [CVE-2023-6553](CVE-2023/CVE-2023-65xx/CVE-2023-6553.json) (`2023-12-15T11:15:47.837`)
+* [CVE-2023-6839](CVE-2023/CVE-2023-68xx/CVE-2023-6839.json) (`2023-12-15T11:15:48.003`)
+* [CVE-2023-33218](CVE-2023/CVE-2023-332xx/CVE-2023-33218.json) (`2023-12-15T12:15:43.317`)
+* [CVE-2023-33219](CVE-2023/CVE-2023-332xx/CVE-2023-33219.json) (`2023-12-15T12:15:43.530`)
+* [CVE-2023-33220](CVE-2023/CVE-2023-332xx/CVE-2023-33220.json) (`2023-12-15T12:15:43.733`)
+* [CVE-2023-33221](CVE-2023/CVE-2023-332xx/CVE-2023-33221.json) (`2023-12-15T12:15:43.927`)
+* [CVE-2023-33222](CVE-2023/CVE-2023-332xx/CVE-2023-33222.json) (`2023-12-15T12:15:44.130`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `2`
 
+* [CVE-2023-3226](CVE-2023/CVE-2023-32xx/CVE-2023-3226.json) (`2023-12-15T11:15:09.510`)
+* [CVE-2023-45866](CVE-2023/CVE-2023-458xx/CVE-2023-45866.json) (`2023-12-15T11:15:09.683`)
 
 
 ## Download and Usage
@@ -160,7 +169,7 @@ git clone --depth 1 -b main https://github.com/fkie-cad/nvd-json-data-feeds.git
 
 ## Motivation
 
-As of September 2023, the NIST will retire all [JSON-based NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds#divRetirementBanner-1).
+On 2023-12-15, the NIST deprecated all [JSON-based NVD Data Feeds](https://nvd.nist.gov/vuln/data-feeds#divRetirementBanner-1).
 The new [NVD CVE API 2.0](https://nvd.nist.gov/developers/vulnerabilities) is, without a doubt, a great way to obtain CVE information.
 However, we from [Fraunhofer FKIE - Cyber Analysis and Defense](https://www.fkie.fraunhofer.de/en/departments/cad.html) believe that the API does not cover a variety of use cases.
 
