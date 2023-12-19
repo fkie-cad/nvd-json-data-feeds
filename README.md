@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-12-19T11:00:24.796731+00:00
+2023-12-19T13:00:24.410198+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-12-19T10:15:08.640000+00:00
+2023-12-19T11:15:08.380000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,31 +29,22 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-233693
+233694
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `1`
 
-* [CVE-2023-50376](CVE-2023/CVE-2023-503xx/CVE-2023-50376.json) (`2023-12-19T09:15:36.343`)
-* [CVE-2023-46104](CVE-2023/CVE-2023-461xx/CVE-2023-46104.json) (`2023-12-19T10:15:07.517`)
-* [CVE-2023-49006](CVE-2023/CVE-2023-490xx/CVE-2023-49006.json) (`2023-12-19T10:15:07.883`)
-* [CVE-2023-49489](CVE-2023/CVE-2023-494xx/CVE-2023-49489.json) (`2023-12-19T10:15:07.943`)
-* [CVE-2023-49734](CVE-2023/CVE-2023-497xx/CVE-2023-49734.json) (`2023-12-19T10:15:08.007`)
-* [CVE-2023-49736](CVE-2023/CVE-2023-497xx/CVE-2023-49736.json) (`2023-12-19T10:15:08.323`)
+* [CVE-2023-6945](CVE-2023/CVE-2023-69xx/CVE-2023-6945.json) (`2023-12-19T11:15:08.380`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `6`
+Recently modified CVEs: `2`
 
-* [CVE-2023-6655](CVE-2023/CVE-2023-66xx/CVE-2023-6655.json) (`2023-12-19T09:15:37.367`)
-* [CVE-2023-6893](CVE-2023/CVE-2023-68xx/CVE-2023-6893.json) (`2023-12-19T09:15:37.577`)
-* [CVE-2023-6894](CVE-2023/CVE-2023-68xx/CVE-2023-6894.json) (`2023-12-19T09:15:37.673`)
-* [CVE-2023-6895](CVE-2023/CVE-2023-68xx/CVE-2023-6895.json) (`2023-12-19T09:15:37.757`)
-* [CVE-2023-6903](CVE-2023/CVE-2023-69xx/CVE-2023-6903.json) (`2023-12-19T09:15:37.827`)
-* [CVE-2023-5869](CVE-2023/CVE-2023-58xx/CVE-2023-5869.json) (`2023-12-19T10:15:08.640`)
+* [CVE-2023-4154](CVE-2023/CVE-2023-41xx/CVE-2023-4154.json) (`2023-12-19T11:15:07.490`)
+* [CVE-2023-5871](CVE-2023/CVE-2023-58xx/CVE-2023-5871.json) (`2023-12-19T11:15:08.223`)
 
 
 ## Download and Usage
