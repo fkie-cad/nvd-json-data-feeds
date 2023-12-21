@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-12-21T13:00:23.931471+00:00
+2023-12-21T15:00:24.355779+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-12-21T12:15:08.293000+00:00
+2023-12-21T14:47:05.363000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,25 +29,50 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-233934
+233945
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `11`
 
-* [CVE-2023-50473](CVE-2023/CVE-2023-504xx/CVE-2023-50473.json) (`2023-12-21T11:15:08.300`)
-* [CVE-2023-50475](CVE-2023/CVE-2023-504xx/CVE-2023-50475.json) (`2023-12-21T11:15:08.673`)
-* [CVE-2023-50477](CVE-2023/CVE-2023-504xx/CVE-2023-50477.json) (`2023-12-21T11:15:08.733`)
-* [CVE-2023-50481](CVE-2023/CVE-2023-504xx/CVE-2023-50481.json) (`2023-12-21T11:15:08.790`)
-* [CVE-2023-51656](CVE-2023/CVE-2023-516xx/CVE-2023-51656.json) (`2023-12-21T12:15:08.050`)
-* [CVE-2023-5594](CVE-2023/CVE-2023-55xx/CVE-2023-5594.json) (`2023-12-21T12:15:08.293`)
+* [CVE-2022-45377](CVE-2022/CVE-2022-453xx/CVE-2022-45377.json) (`2023-12-21T13:15:08.330`)
+* [CVE-2023-32242](CVE-2023/CVE-2023-322xx/CVE-2023-32242.json) (`2023-12-21T13:15:08.710`)
+* [CVE-2023-49762](CVE-2023/CVE-2023-497xx/CVE-2023-49762.json) (`2023-12-21T13:15:08.990`)
+* [CVE-2023-49778](CVE-2023/CVE-2023-497xx/CVE-2023-49778.json) (`2023-12-21T13:15:09.287`)
+* [CVE-2023-49826](CVE-2023/CVE-2023-498xx/CVE-2023-49826.json) (`2023-12-21T13:15:09.557`)
+* [CVE-2023-28421](CVE-2023/CVE-2023-284xx/CVE-2023-28421.json) (`2023-12-21T14:15:07.370`)
+* [CVE-2023-2487](CVE-2023/CVE-2023-24xx/CVE-2023-2487.json) (`2023-12-21T14:15:07.750`)
+* [CVE-2023-48288](CVE-2023/CVE-2023-482xx/CVE-2023-48288.json) (`2023-12-21T14:15:08.293`)
+* [CVE-2023-49162](CVE-2023/CVE-2023-491xx/CVE-2023-49162.json) (`2023-12-21T14:15:08.773`)
+* [CVE-2023-6122](CVE-2023/CVE-2023-61xx/CVE-2023-6122.json) (`2023-12-21T14:15:09.063`)
+* [CVE-2023-6145](CVE-2023/CVE-2023-61xx/CVE-2023-6145.json) (`2023-12-21T14:15:09.430`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `20`
 
+* [CVE-2023-7025](CVE-2023/CVE-2023-70xx/CVE-2023-7025.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-7026](CVE-2023/CVE-2023-70xx/CVE-2023-7026.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-2585](CVE-2023/CVE-2023-25xx/CVE-2023-2585.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-47265](CVE-2023/CVE-2023-472xx/CVE-2023-47265.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-48291](CVE-2023/CVE-2023-482xx/CVE-2023-48291.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-49920](CVE-2023/CVE-2023-499xx/CVE-2023-49920.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-50783](CVE-2023/CVE-2023-507xx/CVE-2023-50783.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-51655](CVE-2023/CVE-2023-516xx/CVE-2023-51655.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-5988](CVE-2023/CVE-2023-59xx/CVE-2023-5988.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-5989](CVE-2023/CVE-2023-59xx/CVE-2023-5989.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-50473](CVE-2023/CVE-2023-504xx/CVE-2023-50473.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-50475](CVE-2023/CVE-2023-504xx/CVE-2023-50475.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-50477](CVE-2023/CVE-2023-504xx/CVE-2023-50477.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-50481](CVE-2023/CVE-2023-504xx/CVE-2023-50481.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-51656](CVE-2023/CVE-2023-516xx/CVE-2023-51656.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-5594](CVE-2023/CVE-2023-55xx/CVE-2023-5594.json) (`2023-12-21T13:22:15.910`)
+* [CVE-2023-46445](CVE-2023/CVE-2023-464xx/CVE-2023-46445.json) (`2023-12-21T14:15:08.013`)
+* [CVE-2023-46446](CVE-2023/CVE-2023-464xx/CVE-2023-46446.json) (`2023-12-21T14:15:08.207`)
+* [CVE-2023-48795](CVE-2023/CVE-2023-487xx/CVE-2023-48795.json) (`2023-12-21T14:15:08.590`)
+* [CVE-2023-6832](CVE-2023/CVE-2023-68xx/CVE-2023-6832.json) (`2023-12-21T14:47:05.363`)
 
 
 ## Download and Usage
@@ -103,6 +128,8 @@ wget https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CV
 xz -d -k CVE-2023.json.xz
 ```
 
+
+
 ### 2) Clone the Repository (with Git History)
 
 As you can see by browsing this repository, there is a slight difference between the release packages format and the repository folder structure.
@@ -137,6 +164,24 @@ If you are interested in having the NVD data as organized above, including the h
 ```sh
 git clone https://github.com/fkie-cad/nvd-json-data-feeds.git
 ```
+
+#### (Optional) Meta Files
+
+Similar to the old official feeds, we provide meta files with each release. They can be fetched for each feed via:
+
+```sh
+https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CVE-<YEAR>.meta
+```
+
+The structure is as follows:
+
+```plain
+lastModifiedDate:1970-01-01T00:00:00.000+00:00                          # ISO 8601 timestamp of last CVE modification
+size:1000                                                               # size of uncompressed feed (bytes)
+xzSize:100                                                              # size of lzma-compressed feed (bytes)
+sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 # sha256 hexdigest of uncompressed feed
+```
+
 
 ### 3) Clone the Repository (without Git History)
 
