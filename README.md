@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-12-28T03:00:32.426714+00:00
+2023-12-28T05:00:24.941795+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-12-28T02:15:54.543000+00:00
+2023-12-28T04:15:08.280000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,20 +29,28 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-234304
+234311
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `7`
 
+* [CVE-2023-34829](CVE-2023/CVE-2023-348xx/CVE-2023-34829.json) (`2023-12-28T03:15:07.587`)
+* [CVE-2023-7124](CVE-2023/CVE-2023-71xx/CVE-2023-7124.json) (`2023-12-28T03:15:08.070`)
+* [CVE-2023-49228](CVE-2023/CVE-2023-492xx/CVE-2023-49228.json) (`2023-12-28T04:15:08.023`)
+* [CVE-2023-49229](CVE-2023/CVE-2023-492xx/CVE-2023-49229.json) (`2023-12-28T04:15:08.100`)
+* [CVE-2023-49230](CVE-2023/CVE-2023-492xx/CVE-2023-49230.json) (`2023-12-28T04:15:08.150`)
+* [CVE-2023-51006](CVE-2023/CVE-2023-510xx/CVE-2023-51006.json) (`2023-12-28T04:15:08.227`)
+* [CVE-2023-51010](CVE-2023/CVE-2023-510xx/CVE-2023-51010.json) (`2023-12-28T04:15:08.280`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `2`
 
-* [CVE-2023-27043](CVE-2023/CVE-2023-270xx/CVE-2023-27043.json) (`2023-12-28T02:15:54.543`)
+* [CVE-2023-48795](CVE-2023/CVE-2023-487xx/CVE-2023-48795.json) (`2023-12-28T03:15:07.660`)
+* [CVE-2023-51385](CVE-2023/CVE-2023-513xx/CVE-2023-51385.json) (`2023-12-28T03:15:07.990`)
 
 
 ## Download and Usage
