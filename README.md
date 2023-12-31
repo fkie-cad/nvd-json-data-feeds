@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2023-12-30T23:00:24.423827+00:00
+2023-12-31T00:55:25.207174+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2023-12-30T21:15:44.067000+00:00
+2023-12-31T00:15:44.490000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,25 +29,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-234571
+234575
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `4`
 
+* [CVE-2023-52264](CVE-2023/CVE-2023-522xx/CVE-2023-52264.json) (`2023-12-30T23:15:42.477`)
+* [CVE-2023-52265](CVE-2023/CVE-2023-522xx/CVE-2023-52265.json) (`2023-12-30T23:15:42.620`)
+* [CVE-2023-52266](CVE-2023/CVE-2023-522xx/CVE-2023-52266.json) (`2023-12-31T00:15:44.440`)
+* [CVE-2023-52267](CVE-2023/CVE-2023-522xx/CVE-2023-52267.json) (`2023-12-31T00:15:44.490`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `6`
+Recently modified CVEs: `4`
 
-* [CVE-2023-31698](CVE-2023/CVE-2023-316xx/CVE-2023-31698.json) (`2023-12-30T21:15:43.680`)
-* [CVE-2023-34845](CVE-2023/CVE-2023-348xx/CVE-2023-34845.json) (`2023-12-30T21:15:43.790`)
-* [CVE-2023-49465](CVE-2023/CVE-2023-494xx/CVE-2023-49465.json) (`2023-12-30T21:15:43.877`)
-* [CVE-2023-49467](CVE-2023/CVE-2023-494xx/CVE-2023-49467.json) (`2023-12-30T21:15:43.957`)
-* [CVE-2023-49468](CVE-2023/CVE-2023-494xx/CVE-2023-49468.json) (`2023-12-30T21:15:44.010`)
-* [CVE-2023-50471](CVE-2023/CVE-2023-504xx/CVE-2023-50471.json) (`2023-12-30T21:15:44.067`)
+* [CVE-2023-34194](CVE-2023/CVE-2023-341xx/CVE-2023-34194.json) (`2023-12-31T00:15:44.050`)
+* [CVE-2023-40303](CVE-2023/CVE-2023-403xx/CVE-2023-40303.json) (`2023-12-31T00:15:44.133`)
+* [CVE-2023-40462](CVE-2023/CVE-2023-404xx/CVE-2023-40462.json) (`2023-12-31T00:15:44.220`)
+* [CVE-2023-48893](CVE-2023/CVE-2023-488xx/CVE-2023-48893.json) (`2023-12-31T00:15:44.330`)
 
 
 ## Download and Usage
