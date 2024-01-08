@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-01-08T03:00:32.018161+00:00
+2024-01-08T05:00:24.860558+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-01-08T02:15:14.367000+00:00
+2024-01-08T04:15:08.540000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,24 +29,29 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-235010
+235015
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `5`
 
-* [CVE-2023-50948](CVE-2023/CVE-2023-509xx/CVE-2023-50948.json) (`2024-01-08T02:15:13.793`)
-* [CVE-2023-7215](CVE-2023/CVE-2023-72xx/CVE-2023-7215.json) (`2024-01-08T02:15:14.027`)
-* [CVE-2024-0290](CVE-2024/CVE-2024-02xx/CVE-2024-0290.json) (`2024-01-08T01:15:10.607`)
-* [CVE-2024-0291](CVE-2024/CVE-2024-02xx/CVE-2024-0291.json) (`2024-01-08T01:15:10.850`)
-* [CVE-2024-0292](CVE-2024/CVE-2024-02xx/CVE-2024-0292.json) (`2024-01-08T02:15:14.367`)
+* [CVE-2023-47140](CVE-2023/CVE-2023-471xx/CVE-2023-47140.json) (`2024-01-08T03:15:13.283`)
+* [CVE-2024-0293](CVE-2024/CVE-2024-02xx/CVE-2024-0293.json) (`2024-01-08T03:15:13.820`)
+* [CVE-2024-0294](CVE-2024/CVE-2024-02xx/CVE-2024-0294.json) (`2024-01-08T03:15:14.050`)
+* [CVE-2024-0295](CVE-2024/CVE-2024-02xx/CVE-2024-0295.json) (`2024-01-08T04:15:08.287`)
+* [CVE-2024-0296](CVE-2024/CVE-2024-02xx/CVE-2024-0296.json) (`2024-01-08T04:15:08.540`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `5`
 
+* [CVE-2021-42260](CVE-2021/CVE-2021-422xx/CVE-2021-42260.json) (`2024-01-08T03:15:12.927`)
+* [CVE-2023-34194](CVE-2023/CVE-2023-341xx/CVE-2023-34194.json) (`2024-01-08T03:15:13.160`)
+* [CVE-2023-49081](CVE-2023/CVE-2023-490xx/CVE-2023-49081.json) (`2024-01-08T03:15:13.457`)
+* [CVE-2023-49082](CVE-2023/CVE-2023-490xx/CVE-2023-49082.json) (`2024-01-08T03:15:13.593`)
+* [CVE-2023-7101](CVE-2023/CVE-2023-71xx/CVE-2023-7101.json) (`2024-01-08T03:15:13.703`)
 
 
 ## Download and Usage
