@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-01-22T00:55:24.624100+00:00
+2024-01-22T03:00:24.678760+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-01-22T00:15:07.040000+00:00
+2024-01-22T01:15:08.607000+00:00
 ```
 
 ### Last Data Feed Release
@@ -23,33 +23,30 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-01-21T01:00:28.268068+00:00
+2024-01-22T01:00:28.245559+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-236482
+236487
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `5`
 
-* [CVE-2023-52353](CVE-2023/CVE-2023-523xx/CVE-2023-52353.json) (`2024-01-21T23:15:44.220`)
-* [CVE-2024-0770](CVE-2024/CVE-2024-07xx/CVE-2024-0770.json) (`2024-01-21T23:15:44.273`)
-* [CVE-2024-0771](CVE-2024/CVE-2024-07xx/CVE-2024-0771.json) (`2024-01-21T23:15:44.567`)
-* [CVE-2024-23744](CVE-2024/CVE-2024-237xx/CVE-2024-23744.json) (`2024-01-21T23:15:44.833`)
-* [CVE-2024-0772](CVE-2024/CVE-2024-07xx/CVE-2024-0772.json) (`2024-01-22T00:15:06.807`)
-* [CVE-2024-0773](CVE-2024/CVE-2024-07xx/CVE-2024-0773.json) (`2024-01-22T00:15:07.040`)
+* [CVE-2024-0774](CVE-2024/CVE-2024-07xx/CVE-2024-0774.json) (`2024-01-22T01:15:08.033`)
+* [CVE-2024-0776](CVE-2024/CVE-2024-07xx/CVE-2024-0776.json) (`2024-01-22T01:15:08.263`)
+* [CVE-2024-23750](CVE-2024/CVE-2024-237xx/CVE-2024-23750.json) (`2024-01-22T01:15:08.507`)
+* [CVE-2024-23751](CVE-2024/CVE-2024-237xx/CVE-2024-23751.json) (`2024-01-22T01:15:08.557`)
+* [CVE-2024-23752](CVE-2024/CVE-2024-237xx/CVE-2024-23752.json) (`2024-01-22T01:15:08.607`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `0`
 
-* [CVE-2021-38155](CVE-2021/CVE-2021-381xx/CVE-2021-38155.json) (`2024-01-21T23:15:43.930`)
-* [CVE-2021-3563](CVE-2021/CVE-2021-35xx/CVE-2021-3563.json) (`2024-01-21T23:15:44.057`)
 
 
 ## Download and Usage
