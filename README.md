@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-01T07:00:25.595145+00:00
+2024-03-01T09:00:30.039604+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-01T06:15:48.390000+00:00
+2024-03-01T08:15:38.437000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,25 +29,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-240171
+240178
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `3`
+Recently added CVEs: `7`
 
-* [CVE-2024-22891](CVE-2024/CVE-2024-228xx/CVE-2024-22891.json) (`2024-03-01T06:15:48.280`)
-* [CVE-2024-25293](CVE-2024/CVE-2024-252xx/CVE-2024-25293.json) (`2024-03-01T06:15:48.347`)
-* [CVE-2024-25386](CVE-2024/CVE-2024-253xx/CVE-2024-25386.json) (`2024-03-01T06:15:48.390`)
+* [CVE-2023-52555](CVE-2023/CVE-2023-525xx/CVE-2023-52555.json) (`2024-03-01T08:15:37.290`)
+* [CVE-2024-1859](CVE-2024/CVE-2024-18xx/CVE-2024-1859.json) (`2024-03-01T07:15:06.133`)
+* [CVE-2024-25552](CVE-2024/CVE-2024-255xx/CVE-2024-25552.json) (`2024-03-01T08:15:37.660`)
+* [CVE-2024-25553](CVE-2024/CVE-2024-255xx/CVE-2024-25553.json) (`2024-03-01T08:15:37.950`)
+* [CVE-2024-25554](CVE-2024/CVE-2024-255xx/CVE-2024-25554.json) (`2024-03-01T08:15:38.107`)
+* [CVE-2024-27949](CVE-2024/CVE-2024-279xx/CVE-2024-27949.json) (`2024-03-01T08:15:38.153`)
+* [CVE-2024-27950](CVE-2024/CVE-2024-279xx/CVE-2024-27950.json) (`2024-03-01T08:15:38.437`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `3`
+Recently modified CVEs: `1`
 
-* [CVE-2023-44821](CVE-2023/CVE-2023-448xx/CVE-2023-44821.json) (`2024-03-01T06:15:48.007`)
-* [CVE-2023-46009](CVE-2023/CVE-2023-460xx/CVE-2023-46009.json) (`2024-03-01T06:15:48.187`)
-* [CVE-2024-0446](CVE-2024/CVE-2024-04xx/CVE-2024-0446.json) (`2024-03-01T05:15:08.440`)
+* [CVE-2024-23742](CVE-2024/CVE-2024-237xx/CVE-2024-23742.json) (`2024-03-01T08:15:37.507`)
 
 
 ## Download and Usage
