@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-12T05:00:38.634042+00:00
+2024-03-12T07:00:39.028804+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-12T04:15:08.810000+00:00
+2024-03-12T06:15:07.970000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,30 +29,23 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-241075
+241077
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `2`
 
-* [CVE-2023-6814](CVE-2023/CVE-2023-68xx/CVE-2023-6814.json) (`2024-03-12T04:15:08.257`)
+* [CVE-2024-25331](CVE-2024/CVE-2024-253xx/CVE-2024-25331.json) (`2024-03-12T06:15:07.970`)
+* [CVE-2024-26521](CVE-2024/CVE-2024-265xx/CVE-2024-26521.json) (`2024-03-12T05:15:47.653`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `10`
+Recently modified CVEs: `2`
 
-* [CVE-2023-4459](CVE-2023/CVE-2023-44xx/CVE-2023-4459.json) (`2024-03-12T04:15:07.807`)
-* [CVE-2023-6356](CVE-2023/CVE-2023-63xx/CVE-2023-6356.json) (`2024-03-12T03:15:06.293`)
-* [CVE-2023-6535](CVE-2023/CVE-2023-65xx/CVE-2023-6535.json) (`2024-03-12T03:15:06.540`)
-* [CVE-2023-6536](CVE-2023/CVE-2023-65xx/CVE-2023-6536.json) (`2024-03-12T03:15:06.687`)
-* [CVE-2023-6546](CVE-2023/CVE-2023-65xx/CVE-2023-6546.json) (`2024-03-12T03:15:06.823`)
-* [CVE-2023-6606](CVE-2023/CVE-2023-66xx/CVE-2023-6606.json) (`2024-03-12T03:15:07.010`)
-* [CVE-2023-6610](CVE-2023/CVE-2023-66xx/CVE-2023-6610.json) (`2024-03-12T04:15:08.080`)
-* [CVE-2023-7192](CVE-2023/CVE-2023-71xx/CVE-2023-7192.json) (`2024-03-12T03:15:07.273`)
-* [CVE-2024-0193](CVE-2024/CVE-2024-01xx/CVE-2024-0193.json) (`2024-03-12T04:15:08.627`)
-* [CVE-2024-0646](CVE-2024/CVE-2024-06xx/CVE-2024-0646.json) (`2024-03-12T04:15:08.810`)
+* [CVE-2024-26481](CVE-2024/CVE-2024-264xx/CVE-2024-26481.json) (`2024-03-12T05:15:47.500`)
+* [CVE-2024-26483](CVE-2024/CVE-2024-264xx/CVE-2024-26483.json) (`2024-03-12T05:15:47.610`)
 
 
 ## Download and Usage
