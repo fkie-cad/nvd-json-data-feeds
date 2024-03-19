@@ -9,13 +9,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-19T05:00:37.694292+00:00
+2024-03-19T07:00:38.833088+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-19T04:15:07.710000+00:00
+2024-03-19T06:15:07.697000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,23 +29,29 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-241949
+241956
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `7`
 
+* [CVE-2024-21503](CVE-2024/CVE-2024-215xx/CVE-2024-21503.json) (`2024-03-19T05:15:09.447`)
+* [CVE-2024-21504](CVE-2024/CVE-2024-215xx/CVE-2024-21504.json) (`2024-03-19T05:15:09.813`)
+* [CVE-2024-22017](CVE-2024/CVE-2024-220xx/CVE-2024-22017.json) (`2024-03-19T05:15:10.073`)
+* [CVE-2024-22025](CVE-2024/CVE-2024-220xx/CVE-2024-22025.json) (`2024-03-19T05:15:10.267`)
+* [CVE-2024-26369](CVE-2024/CVE-2024-263xx/CVE-2024-26369.json) (`2024-03-19T06:15:06.267`)
+* [CVE-2024-28446](CVE-2024/CVE-2024-284xx/CVE-2024-28446.json) (`2024-03-19T06:15:07.547`)
+* [CVE-2024-28447](CVE-2024/CVE-2024-284xx/CVE-2024-28447.json) (`2024-03-19T06:15:07.697`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `4`
+Recently modified CVEs: `3`
 
-* [CVE-2023-47995](CVE-2023/CVE-2023-479xx/CVE-2023-47995.json) (`2024-03-19T03:15:06.180`)
-* [CVE-2023-47997](CVE-2023/CVE-2023-479xx/CVE-2023-47997.json) (`2024-03-19T03:15:06.623`)
-* [CVE-2024-2604](CVE-2024/CVE-2024-26xx/CVE-2024-2604.json) (`2024-03-19T04:15:07.710`)
-* [CVE-2024-28757](CVE-2024/CVE-2024-287xx/CVE-2024-28757.json) (`2024-03-19T03:15:06.893`)
+* [CVE-2023-4459](CVE-2023/CVE-2023-44xx/CVE-2023-4459.json) (`2024-03-19T05:15:08.030`)
+* [CVE-2023-7192](CVE-2023/CVE-2023-71xx/CVE-2023-7192.json) (`2024-03-19T05:15:09.100`)
+* [CVE-2024-0646](CVE-2024/CVE-2024-06xx/CVE-2024-0646.json) (`2024-03-19T05:15:09.250`)
 
 
 ## Download and Usage
