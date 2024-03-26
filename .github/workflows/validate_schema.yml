@@ -1,0 +1,23 @@
+name: validate-schema
+on:
+  push:
+    branches:
+      - "main"
+  workflow_dispatch: {}
+jobs:
+  validate-schema:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+          BRANCH_NAME: ${{ github.ref_name }}
+      - name: Install dependencies
+        run: npm install -g ajv-cli && npm install -g ajv-formats
+      - name: Run json schema validation via ajv
+        run: bash _scripts/validate_schema-v2.0.bash
+        shell: bash
