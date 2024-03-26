@@ -1,6 +1,14 @@
 # nvd-json-data-feeds
 
-Community reconstruction of the deprecated JSON NVD Data Feeds. 
+---
+
+[![monitor-release](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_release.yml/badge.svg)](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_release.yml)
+[![monitor-sync](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_sync.yml/badge.svg)](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/monitor_sync.yml)
+[![validate-schema](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/validate_schema.yml/badge.svg)](https://github.com/fkie-cad/nvd-json-data-feeds/actions/workflows/validate_schema.yml)
+
+---
+
+Community reconstruction of the deprecated JSON NVD Data Feeds.
 [Releases](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest) each day at 00:00 AM UTC.
 Repository synchronizes with the NVD every 2 hours.
 
@@ -9,13 +17,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-03-26T15:01:44.009975+00:00
+2024-03-26T17:01:08.948640+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-03-26T14:15:09.530000+00:00
+2024-03-26T16:15:14.230000+00:00
 ```
 
 ### Last Data Feed Release
@@ -29,34 +37,51 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-242687
+242721
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `15`
+Recently added CVEs: `34`
 
-* [CVE-2023-33855](CVE-2023/CVE-2023-338xx/CVE-2023-33855.json) (`2024-03-26T14:15:07.903`)
-* [CVE-2023-47150](CVE-2023/CVE-2023-471xx/CVE-2023-47150.json) (`2024-03-26T14:15:08.173`)
-* [CVE-2023-52214](CVE-2023/CVE-2023-522xx/CVE-2023-52214.json) (`2024-03-26T13:15:44.857`)
-* [CVE-2024-1455](CVE-2024/CVE-2024-14xx/CVE-2024-1455.json) (`2024-03-26T14:15:08.450`)
-* [CVE-2024-1933](CVE-2024/CVE-2024-19xx/CVE-2024-1933.json) (`2024-03-26T13:15:45.077`)
-* [CVE-2024-22156](CVE-2024/CVE-2024-221xx/CVE-2024-22156.json) (`2024-03-26T13:15:45.277`)
-* [CVE-2024-2891](CVE-2024/CVE-2024-28xx/CVE-2024-2891.json) (`2024-03-26T14:15:09.530`)
-* [CVE-2024-2906](CVE-2024/CVE-2024-29xx/CVE-2024-2906.json) (`2024-03-26T13:15:45.497`)
-* [CVE-2024-29203](CVE-2024/CVE-2024-292xx/CVE-2024-29203.json) (`2024-03-26T14:15:08.747`)
-* [CVE-2024-29684](CVE-2024/CVE-2024-296xx/CVE-2024-29684.json) (`2024-03-26T14:15:09.003`)
-* [CVE-2024-29881](CVE-2024/CVE-2024-298xx/CVE-2024-29881.json) (`2024-03-26T14:15:09.070`)
-* [CVE-2024-29883](CVE-2024/CVE-2024-298xx/CVE-2024-29883.json) (`2024-03-26T14:15:09.280`)
-* [CVE-2024-30233](CVE-2024/CVE-2024-302xx/CVE-2024-30233.json) (`2024-03-26T13:15:45.710`)
-* [CVE-2024-30234](CVE-2024/CVE-2024-302xx/CVE-2024-30234.json) (`2024-03-26T13:15:45.927`)
-* [CVE-2024-30235](CVE-2024/CVE-2024-302xx/CVE-2024-30235.json) (`2024-03-26T13:15:46.153`)
+\* [CVE-2024-21919](CVE-2024/CVE-2024-219xx/CVE-2024-21919.json) (`2024-03-26T16:15:11.073`)
+\* [CVE-2024-21920](CVE-2024/CVE-2024-219xx/CVE-2024-21920.json) (`2024-03-26T16:15:11.277`)
+\* [CVE-2024-2212](CVE-2024/CVE-2024-22xx/CVE-2024-2212.json) (`2024-03-26T16:15:13.233`)
+\* [CVE-2024-2214](CVE-2024/CVE-2024-22xx/CVE-2024-2214.json) (`2024-03-26T16:15:13.430`)
+\* [CVE-2024-22356](CVE-2024/CVE-2024-223xx/CVE-2024-22356.json) (`2024-03-26T15:15:48.920`)
+\* [CVE-2024-23482](CVE-2024/CVE-2024-234xx/CVE-2024-23482.json) (`2024-03-26T15:15:49.130`)
+\* [CVE-2024-23722](CVE-2024/CVE-2024-237xx/CVE-2024-23722.json) (`2024-03-26T15:15:49.317`)
+\* [CVE-2024-2452](CVE-2024/CVE-2024-24xx/CVE-2024-2452.json) (`2024-03-26T16:15:13.623`)
+\* [CVE-2024-25956](CVE-2024/CVE-2024-259xx/CVE-2024-25956.json) (`2024-03-26T16:15:11.520`)
+\* [CVE-2024-25957](CVE-2024/CVE-2024-259xx/CVE-2024-25957.json) (`2024-03-26T16:15:11.727`)
+\* [CVE-2024-25958](CVE-2024/CVE-2024-259xx/CVE-2024-25958.json) (`2024-03-26T16:15:11.917`)
+\* [CVE-2024-26644](CVE-2024/CVE-2024-266xx/CVE-2024-26644.json) (`2024-03-26T16:15:12.137`)
+\* [CVE-2024-26645](CVE-2024/CVE-2024-266xx/CVE-2024-26645.json) (`2024-03-26T16:15:12.207`)
+\* [CVE-2024-2802](CVE-2024/CVE-2024-28xx/CVE-2024-2802.json) (`2024-03-26T15:15:49.677`)
+\* [CVE-2024-2892](CVE-2024/CVE-2024-28xx/CVE-2024-2892.json) (`2024-03-26T16:15:13.853`)
+\* [CVE-2024-2915](CVE-2024/CVE-2024-29xx/CVE-2024-2915.json) (`2024-03-26T16:15:14.117`)
+\* [CVE-2024-29197](CVE-2024/CVE-2024-291xx/CVE-2024-29197.json) (`2024-03-26T15:15:49.390`)
+\* [CVE-2024-2921](CVE-2024/CVE-2024-29xx/CVE-2024-2921.json) (`2024-03-26T16:15:14.173`)
+\* [CVE-2024-2929](CVE-2024/CVE-2024-29xx/CVE-2024-2929.json) (`2024-03-26T16:15:14.230`)
+\* [CVE-2024-29401](CVE-2024/CVE-2024-294xx/CVE-2024-29401.json) (`2024-03-26T15:15:49.620`)
+\* [CVE-2024-29808](CVE-2024/CVE-2024-298xx/CVE-2024-29808.json) (`2024-03-26T16:15:12.323`)
+\* [CVE-2024-29809](CVE-2024/CVE-2024-298xx/CVE-2024-29809.json) (`2024-03-26T16:15:12.520`)
+\* [CVE-2024-29810](CVE-2024/CVE-2024-298xx/CVE-2024-29810.json) (`2024-03-26T16:15:12.707`)
+\* [CVE-2024-29832](CVE-2024/CVE-2024-298xx/CVE-2024-29832.json) (`2024-03-26T16:15:12.890`)
+\* [CVE-2024-29833](CVE-2024/CVE-2024-298xx/CVE-2024-29833.json) (`2024-03-26T16:15:13.063`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `7`
 
+\* [CVE-2023-40547](CVE-2023/CVE-2023-405xx/CVE-2023-40547.json) (`2024-03-26T16:15:08.220`)
+\* [CVE-2023-40548](CVE-2023/CVE-2023-405xx/CVE-2023-40548.json) (`2024-03-26T16:15:09.080`)
+\* [CVE-2023-4194](CVE-2023/CVE-2023-41xx/CVE-2023-4194.json) (`2024-03-26T16:15:09.253`)
+\* [CVE-2023-6240](CVE-2023/CVE-2023-62xx/CVE-2023-6240.json) (`2024-03-26T16:15:09.550`)
+\* [CVE-2023-6780](CVE-2023/CVE-2023-67xx/CVE-2023-6780.json) (`2024-03-26T16:15:10.083`)
+\* [CVE-2023-7216](CVE-2023/CVE-2023-72xx/CVE-2023-7216.json) (`2024-03-26T16:15:10.283`)
+\* [CVE-2024-27455](CVE-2024/CVE-2024-274xx/CVE-2024-27455.json) (`2024-03-26T16:15:12.263`)
 
 
 ## Download and Usage
@@ -96,7 +121,6 @@ For decompression execute:
 xz -d -k <feed>.json.xz
 ```
 
-
 #### Automation using Release Data Feed Packages
 
 You can fetch the latest releases for each package with the following static link layout:
@@ -111,8 +135,6 @@ Example:
 wget https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest/download/CVE-2023.json.xz
 xz -d -k CVE-2023.json.xz
 ```
-
-
 
 ### 2) Clone the Repository (with Git History)
 
@@ -166,7 +188,6 @@ xzSize:100                                                              # size o
 sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 # sha256 hexdigest of uncompressed feed
 ```
 
-
 ### 3) Clone the Repository (without Git History)
 
 Don't need the history? Then create a shallow copy:
@@ -183,10 +204,10 @@ However, we from [Fraunhofer FKIE - Cyber Analysis and Defense](https://www.fkie
 
 The legacy NVD Data Feeds provided a convenient way to quickly obtain a complete, file-based offline database snapshot; just download the `CVE-<YEAR>.tar.gz`, decompress it, and use it as you please, e.g.:
 
-* Put the JSON feed into a document-based database and quickly leverage upon that data in your software project, ...
-* Parse and analyze it using your favorite programming language, ...
-* Put it on a USB stick and transfer it to a system without internet access, or ...
-* Query the file using `jq`!
+- Put the JSON feed into a document-based database and quickly leverage upon that data in your software project, ...
+- Parse and analyze it using your favorite programming language, ...
+- Put it on a USB stick and transfer it to a system without internet access, or ...
+- Query the file using `jq`!
 
 Unfortunately, the new NVD API 2.0 adds complexity to this process.
 We want to preserve ease of use by reconstructing these data sources.
