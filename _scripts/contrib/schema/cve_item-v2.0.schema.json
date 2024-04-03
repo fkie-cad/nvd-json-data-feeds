@@ -85,7 +85,7 @@
       "properties": {
         "organization": { "type": "string" },
         "comment": { "type": "string" },
-        "lastModified": { "type": "string", "format": "date-time" }
+        "lastModified": { "type": "string", "format": "iso-date-time" }
       },
       "required": ["organization", "comment", "lastModified"],
       "additionalProperties": false
@@ -153,8 +153,8 @@
     "id": { "$ref": "#/definitions/cve_id" },
     "sourceIdentifier": { "type": "string" },
     "vulnStatus": { "type": "string" },
-    "published": { "type": "string", "format": "date-time" },
-    "lastModified": { "type": "string", "format": "date-time" },
+    "published": { "type": "string", "format": "iso-date-time" },
+    "lastModified": { "type": "string", "format": "iso-date-time" },
     "evaluatorComment": { "type": "string" },
     "evaluatorSolution": { "type": "string" },
     "evaluatorImpact": { "type": "string" },
