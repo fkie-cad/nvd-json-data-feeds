@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-06-03T04:00:38.045716+00:00
+2024-06-03T06:00:29.940794+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-06-03T02:15:09.717000+00:00
+2024-06-03T04:15:09.287000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,31 +33,21 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-252388
+252390
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `11`
+Recently added CVEs: `2`
 
-- [CVE-2024-20065](CVE-2024/CVE-2024-200xx/CVE-2024-20065.json) (`2024-06-03T02:15:08.463`)
-- [CVE-2024-20066](CVE-2024/CVE-2024-200xx/CVE-2024-20066.json) (`2024-06-03T02:15:08.630`)
-- [CVE-2024-20067](CVE-2024/CVE-2024-200xx/CVE-2024-20067.json) (`2024-06-03T02:15:08.770`)
-- [CVE-2024-20068](CVE-2024/CVE-2024-200xx/CVE-2024-20068.json) (`2024-06-03T02:15:08.873`)
-- [CVE-2024-20069](CVE-2024/CVE-2024-200xx/CVE-2024-20069.json) (`2024-06-03T02:15:08.977`)
-- [CVE-2024-20070](CVE-2024/CVE-2024-200xx/CVE-2024-20070.json) (`2024-06-03T02:15:09.093`)
-- [CVE-2024-20071](CVE-2024/CVE-2024-200xx/CVE-2024-20071.json) (`2024-06-03T02:15:09.220`)
-- [CVE-2024-20072](CVE-2024/CVE-2024-200xx/CVE-2024-20072.json) (`2024-06-03T02:15:09.320`)
-- [CVE-2024-20073](CVE-2024/CVE-2024-200xx/CVE-2024-20073.json) (`2024-06-03T02:15:09.420`)
-- [CVE-2024-20074](CVE-2024/CVE-2024-200xx/CVE-2024-20074.json) (`2024-06-03T02:15:09.520`)
-- [CVE-2024-20075](CVE-2024/CVE-2024-200xx/CVE-2024-20075.json) (`2024-06-03T02:15:09.620`)
+- [CVE-2023-42427](CVE-2023/CVE-2023-424xx/CVE-2023-42427.json) (`2024-06-03T04:15:08.830`)
+- [CVE-2023-51436](CVE-2023/CVE-2023-514xx/CVE-2023-51436.json) (`2024-06-03T04:15:09.287`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-- [CVE-2024-21506](CVE-2024/CVE-2024-215xx/CVE-2024-21506.json) (`2024-06-03T02:15:09.717`)
 
 
 ## Download and Usage
