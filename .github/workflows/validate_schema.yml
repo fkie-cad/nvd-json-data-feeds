@@ -19,5 +19,5 @@ jobs:
       - name: Install dependencies
         run: npm install -g ajv-cli && npm install -g ajv-formats
       - name: Run json schema validation via ajv
-        run: bash _scripts/validate_schema-v2.0.bash
+        run: bash _scripts/validate_schema-v2.2.0.bash
         shell: bash
