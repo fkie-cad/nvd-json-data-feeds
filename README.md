@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-07-22T06:00:18.240608+00:00
+2024-07-22T08:00:18.628514+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-07-22T05:15:03.537000+00:00
+2024-07-22T07:15:02.207000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,24 +33,29 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-257692
+257701
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `4`
+Recently added CVEs: `9`
 
-- [CVE-2024-41703](CVE-2024/CVE-2024-417xx/CVE-2024-41703.json) (`2024-07-22T05:15:03.450`)
-- [CVE-2024-41704](CVE-2024/CVE-2024-417xx/CVE-2024-41704.json) (`2024-07-22T05:15:03.537`)
-- [CVE-2024-6969](CVE-2024/CVE-2024-69xx/CVE-2024-6969.json) (`2024-07-22T04:15:01.973`)
-- [CVE-2024-6970](CVE-2024/CVE-2024-69xx/CVE-2024-6970.json) (`2024-07-22T04:15:02.567`)
+- [CVE-2024-37391](CVE-2024/CVE-2024-373xx/CVE-2024-37391.json) (`2024-07-22T07:15:01.870`)
+- [CVE-2024-40430](CVE-2024/CVE-2024-404xx/CVE-2024-40430.json) (`2024-07-22T07:15:02.207`)
+- [CVE-2024-41709](CVE-2024/CVE-2024-417xx/CVE-2024-41709.json) (`2024-07-22T06:15:02.260`)
+- [CVE-2024-5004](CVE-2024/CVE-2024-50xx/CVE-2024-5004.json) (`2024-07-22T06:15:02.423`)
+- [CVE-2024-5529](CVE-2024/CVE-2024-55xx/CVE-2024-5529.json) (`2024-07-22T06:15:02.520`)
+- [CVE-2024-5973](CVE-2024/CVE-2024-59xx/CVE-2024-5973.json) (`2024-07-22T06:15:02.590`)
+- [CVE-2024-6243](CVE-2024/CVE-2024-62xx/CVE-2024-6243.json) (`2024-07-22T06:15:02.663`)
+- [CVE-2024-6244](CVE-2024/CVE-2024-62xx/CVE-2024-6244.json) (`2024-07-22T06:15:02.737`)
+- [CVE-2024-6271](CVE-2024/CVE-2024-62xx/CVE-2024-6271.json) (`2024-07-22T06:15:02.810`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `1`
 
-- [CVE-2024-1394](CVE-2024/CVE-2024-13xx/CVE-2024-1394.json) (`2024-07-22T05:15:02.137`)
+- [CVE-2024-39236](CVE-2024/CVE-2024-392xx/CVE-2024-39236.json) (`2024-07-22T07:15:02.050`)
 
 
 ## Download and Usage
