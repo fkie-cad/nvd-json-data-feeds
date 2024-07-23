@@ -41,7 +41,9 @@ ajv validate -s "$schema_path/cve_item-v2.2.0.schema.json" \
   -r "$schema_path/cvss-v3.1.schema.json" \
   -r "$schema_path/cvss-v3.0.schema.json" \
   -r "$schema_path/cvss-v2.0.schema.json" \
-  --all-errors \
   --errors=json \
+  --all-errors \
+  --multiple-of-precision=1 \
   -c ajv-formats > /dev/null
+
 
