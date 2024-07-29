@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-07-29T12:00:16.577372+00:00
+2024-07-29T14:00:17.355025+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-07-29T11:15:10.503000+00:00
+2024-07-29T13:15:11.400000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-258165
+258171
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `6`
 
-- [CVE-2024-4848](CVE-2024/CVE-2024-48xx/CVE-2024-4848.json) (`2024-07-29T11:15:09.920`)
-- [CVE-2024-6761](CVE-2024/CVE-2024-67xx/CVE-2024-6761.json) (`2024-07-29T11:15:10.140`)
-- [CVE-2024-7193](CVE-2024/CVE-2024-71xx/CVE-2024-7193.json) (`2024-07-29T10:15:02.107`)
-- [CVE-2024-7194](CVE-2024/CVE-2024-71xx/CVE-2024-7194.json) (`2024-07-29T10:15:02.933`)
-- [CVE-2024-7195](CVE-2024/CVE-2024-71xx/CVE-2024-7195.json) (`2024-07-29T11:15:10.197`)
-- [CVE-2024-7196](CVE-2024/CVE-2024-71xx/CVE-2024-7196.json) (`2024-07-29T11:15:10.503`)
+- [CVE-2024-6124](CVE-2024/CVE-2024-61xx/CVE-2024-6124.json) (`2024-07-29T13:15:10.810`)
+- [CVE-2024-6881](CVE-2024/CVE-2024-68xx/CVE-2024-6881.json) (`2024-07-29T13:15:10.990`)
+- [CVE-2024-7197](CVE-2024/CVE-2024-71xx/CVE-2024-7197.json) (`2024-07-29T12:15:02.320`)
+- [CVE-2024-7198](CVE-2024/CVE-2024-71xx/CVE-2024-7198.json) (`2024-07-29T12:15:02.610`)
+- [CVE-2024-7199](CVE-2024/CVE-2024-71xx/CVE-2024-7199.json) (`2024-07-29T13:15:11.123`)
+- [CVE-2024-7200](CVE-2024/CVE-2024-72xx/CVE-2024-7200.json) (`2024-07-29T13:15:11.400`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `2`
 
-- [CVE-2024-7192](CVE-2024/CVE-2024-71xx/CVE-2024-7192.json) (`2024-07-29T09:15:03.693`)
+- [CVE-2024-26905](CVE-2024/CVE-2024-269xx/CVE-2024-26905.json) (`2024-07-29T13:15:10.593`)
+- [CVE-2024-7196](CVE-2024/CVE-2024-71xx/CVE-2024-7196.json) (`2024-07-29T11:15:10.503`)
 
 
 ## Download and Usage
