@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-08-03T02:00:16.697155+00:00
+2024-08-03T04:00:17.600725+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-08-03T01:16:12.880000+00:00
+2024-08-03T03:16:16.560000+00:00
 ```
 
 ### Last Data Feed Release
@@ -44,9 +44,17 @@ Recently added CVEs: `0`
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `9`
 
-- [CVE-2022-3007](CVE-2022/CVE-2022-30xx/CVE-2022-3007.json) (`2024-08-03T01:16:12.880`)
+- [CVE-2022-22273](CVE-2022/CVE-2022-222xx/CVE-2022-22273.json) (`2024-08-03T03:16:16.390`)
+- [CVE-2022-22279](CVE-2022/CVE-2022-222xx/CVE-2022-22279.json) (`2024-08-03T03:16:16.560`)
+- [CVE-2022-3647](CVE-2022/CVE-2022-36xx/CVE-2022-3647.json) (`2024-08-03T02:15:39.743`)
+- [CVE-2022-3704](CVE-2022/CVE-2022-37xx/CVE-2022-3704.json) (`2024-08-03T02:15:43.447`)
+- [CVE-2022-3734](CVE-2022/CVE-2022-37xx/CVE-2022-3734.json) (`2024-08-03T02:15:45.683`)
+- [CVE-2022-4396](CVE-2022/CVE-2022-43xx/CVE-2022-4396.json) (`2024-08-03T02:16:17.623`)
+- [CVE-2022-4603](CVE-2022/CVE-2022-46xx/CVE-2022-4603.json) (`2024-08-03T02:16:31.013`)
+- [CVE-2022-4773](CVE-2022/CVE-2022-47xx/CVE-2022-4773.json) (`2024-08-03T02:16:42.947`)
+- [CVE-2022-4962](CVE-2022/CVE-2022-49xx/CVE-2022-4962.json) (`2024-08-03T02:17:01.660`)
 
 
 ## Download and Usage
