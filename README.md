@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-08-27T23:55:17.221301+00:00
+2024-08-28T02:00:17.125001+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-08-27T23:15:04.207000+00:00
+2024-08-28T01:15:03.353000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,32 +27,31 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-08-27T00:00:08.653711+00:00
+2024-08-28T00:00:08.672392+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-261334
+261338
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `7`
+Recently added CVEs: `4`
 
-- [CVE-2024-8219](CVE-2024/CVE-2024-82xx/CVE-2024-8219.json) (`2024-08-27T22:15:05.340`)
-- [CVE-2024-8220](CVE-2024/CVE-2024-82xx/CVE-2024-8220.json) (`2024-08-27T22:15:05.630`)
-- [CVE-2024-8221](CVE-2024/CVE-2024-82xx/CVE-2024-8221.json) (`2024-08-27T22:15:05.877`)
-- [CVE-2024-8222](CVE-2024/CVE-2024-82xx/CVE-2024-8222.json) (`2024-08-27T23:15:03.360`)
-- [CVE-2024-8223](CVE-2024/CVE-2024-82xx/CVE-2024-8223.json) (`2024-08-27T23:15:03.650`)
-- [CVE-2024-8224](CVE-2024/CVE-2024-82xx/CVE-2024-8224.json) (`2024-08-27T23:15:03.920`)
-- [CVE-2024-8225](CVE-2024/CVE-2024-82xx/CVE-2024-8225.json) (`2024-08-27T23:15:04.207`)
+- [CVE-2024-8226](CVE-2024/CVE-2024-82xx/CVE-2024-8226.json) (`2024-08-28T00:15:04.287`)
+- [CVE-2024-8227](CVE-2024/CVE-2024-82xx/CVE-2024-8227.json) (`2024-08-28T00:15:04.550`)
+- [CVE-2024-8228](CVE-2024/CVE-2024-82xx/CVE-2024-8228.json) (`2024-08-28T00:15:04.807`)
+- [CVE-2024-8229](CVE-2024/CVE-2024-82xx/CVE-2024-8229.json) (`2024-08-28T01:15:03.353`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `2`
 
+- [CVE-2024-38856](CVE-2024/CVE-2024-388xx/CVE-2024-38856.json) (`2024-08-28T01:00:00.950`)
+- [CVE-2024-4067](CVE-2024/CVE-2024-40xx/CVE-2024-4067.json) (`2024-08-28T00:15:04.130`)
 
 
 ## Download and Usage
