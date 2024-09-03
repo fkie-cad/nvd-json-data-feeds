@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-09-03T10:00:17.576575+00:00
+2024-09-03T12:00:18.444889+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-09-03T06:15:14.413000+00:00
+2024-09-03T11:15:15.800000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,20 +33,28 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-261732
+261740
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `8`
 
+- [CVE-2024-3655](CVE-2024/CVE-2024-36xx/CVE-2024-3655.json) (`2024-09-03T10:15:06.083`)
+- [CVE-2024-38811](CVE-2024/CVE-2024-388xx/CVE-2024-38811.json) (`2024-09-03T10:15:05.477`)
+- [CVE-2024-41718](CVE-2024/CVE-2024-417xx/CVE-2024-41718.json) (`2024-09-03T11:15:15.050`)
+- [CVE-2024-45586](CVE-2024/CVE-2024-455xx/CVE-2024-45586.json) (`2024-09-03T10:15:06.180`)
+- [CVE-2024-45587](CVE-2024/CVE-2024-455xx/CVE-2024-45587.json) (`2024-09-03T10:15:06.373`)
+- [CVE-2024-45588](CVE-2024/CVE-2024-455xx/CVE-2024-45588.json) (`2024-09-03T11:15:15.333`)
+- [CVE-2024-6473](CVE-2024/CVE-2024-64xx/CVE-2024-6473.json) (`2024-09-03T11:15:15.800`)
+- [CVE-2024-8374](CVE-2024/CVE-2024-83xx/CVE-2024-8374.json) (`2024-09-03T10:15:06.483`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `1`
 
-- [CVE-2024-37136](CVE-2024/CVE-2024-371xx/CVE-2024-37136.json) (`2024-09-03T06:15:14.413`)
+- [CVE-2024-5953](CVE-2024/CVE-2024-59xx/CVE-2024-5953.json) (`2024-09-03T11:15:15.463`)
 
 
 ## Download and Usage
