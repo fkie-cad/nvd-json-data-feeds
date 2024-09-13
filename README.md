@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-09-12T23:55:17.292939+00:00
+2024-09-13T02:00:17.243546+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-09-12T22:35:07.533000+00:00
+2024-09-13T01:15:02.320000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,36 +27,27 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2024-09-12T00:00:08.680016+00:00
+2024-09-13T00:00:08.650003+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-262715
+262716
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `1`
 
-- [CVE-2024-8751](CVE-2024/CVE-2024-87xx/CVE-2024-8751.json) (`2024-09-12T22:15:02.680`)
+- [CVE-2024-8762](CVE-2024/CVE-2024-87xx/CVE-2024-8762.json) (`2024-09-13T01:15:02.320`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `10`
+Recently modified CVEs: `1`
 
-- [CVE-2024-29847](CVE-2024/CVE-2024-298xx/CVE-2024-29847.json) (`2024-09-12T22:35:00.440`)
-- [CVE-2024-32840](CVE-2024/CVE-2024-328xx/CVE-2024-32840.json) (`2024-09-12T22:35:01.747`)
-- [CVE-2024-32842](CVE-2024/CVE-2024-328xx/CVE-2024-32842.json) (`2024-09-12T22:35:02.527`)
-- [CVE-2024-32843](CVE-2024/CVE-2024-328xx/CVE-2024-32843.json) (`2024-09-12T22:35:03.333`)
-- [CVE-2024-32845](CVE-2024/CVE-2024-328xx/CVE-2024-32845.json) (`2024-09-12T22:35:04.037`)
-- [CVE-2024-32846](CVE-2024/CVE-2024-328xx/CVE-2024-32846.json) (`2024-09-12T22:35:04.737`)
-- [CVE-2024-32848](CVE-2024/CVE-2024-328xx/CVE-2024-32848.json) (`2024-09-12T22:35:05.437`)
-- [CVE-2024-34779](CVE-2024/CVE-2024-347xx/CVE-2024-34779.json) (`2024-09-12T22:35:06.133`)
-- [CVE-2024-34783](CVE-2024/CVE-2024-347xx/CVE-2024-34783.json) (`2024-09-12T22:35:06.833`)
-- [CVE-2024-34785](CVE-2024/CVE-2024-347xx/CVE-2024-34785.json) (`2024-09-12T22:35:07.533`)
+- [CVE-2024-31336](CVE-2024/CVE-2024-313xx/CVE-2024-31336.json) (`2024-09-13T01:15:01.980`)
 
 
 ## Download and Usage
