@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-09-17T06:00:17.877285+00:00
+2024-09-17T08:00:17.671161+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-09-17T05:15:22.973000+00:00
+2024-09-17T06:15:02.977000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,28 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-263073
+263082
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `9`
 
+- [CVE-2024-5170](CVE-2024/CVE-2024-51xx/CVE-2024-5170.json) (`2024-09-17T06:15:02.310`)
+- [CVE-2024-8043](CVE-2024/CVE-2024-80xx/CVE-2024-8043.json) (`2024-09-17T06:15:02.467`)
+- [CVE-2024-8044](CVE-2024/CVE-2024-80xx/CVE-2024-8044.json) (`2024-09-17T06:15:02.550`)
+- [CVE-2024-8047](CVE-2024/CVE-2024-80xx/CVE-2024-8047.json) (`2024-09-17T06:15:02.617`)
+- [CVE-2024-8051](CVE-2024/CVE-2024-80xx/CVE-2024-8051.json) (`2024-09-17T06:15:02.690`)
+- [CVE-2024-8052](CVE-2024/CVE-2024-80xx/CVE-2024-8052.json) (`2024-09-17T06:15:02.780`)
+- [CVE-2024-8091](CVE-2024/CVE-2024-80xx/CVE-2024-8091.json) (`2024-09-17T06:15:02.850`)
+- [CVE-2024-8092](CVE-2024/CVE-2024-80xx/CVE-2024-8092.json) (`2024-09-17T06:15:02.920`)
+- [CVE-2024-8093](CVE-2024/CVE-2024-80xx/CVE-2024-8093.json) (`2024-09-17T06:15:02.977`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `7`
+Recently modified CVEs: `0`
 
-- [CVE-2021-32036](CVE-2021/CVE-2021-320xx/CVE-2021-32036.json) (`2024-09-17T05:15:22.973`)
-- [CVE-2021-35232](CVE-2021/CVE-2021-352xx/CVE-2021-35232.json) (`2024-09-17T04:16:51.820`)
-- [CVE-2021-44792](CVE-2021/CVE-2021-447xx/CVE-2021-44792.json) (`2024-09-17T04:16:56.150`)
-- [CVE-2021-44793](CVE-2021/CVE-2021-447xx/CVE-2021-44793.json) (`2024-09-17T04:16:56.283`)
-- [CVE-2022-24036](CVE-2022/CVE-2022-240xx/CVE-2022-24036.json) (`2024-09-17T04:16:57.613`)
-- [CVE-2022-24038](CVE-2022/CVE-2022-240xx/CVE-2022-24038.json) (`2024-09-17T04:16:57.790`)
-- [CVE-2022-29923](CVE-2022/CVE-2022-299xx/CVE-2022-29923.json) (`2024-09-17T04:16:58.870`)
 
 
 ## Download and Usage
