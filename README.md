@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2024-11-23T23:00:52.295904+00:00
+2024-11-24T00:55:39.915407+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2024-11-23T21:15:15.090000+00:00
+2024-11-23T23:15:03.810000+00:00
 ```
 
 ### Last Data Feed Release
@@ -44,16 +44,9 @@ Recently added CVEs: `0`
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `8`
+Recently modified CVEs: `1`
 
-- [CVE-2024-38649](CVE-2024/CVE-2024-386xx/CVE-2024-38649.json) (`2024-11-23T21:15:13.280`)
-- [CVE-2024-38655](CVE-2024/CVE-2024-386xx/CVE-2024-38655.json) (`2024-11-23T21:15:14.393`)
-- [CVE-2024-38656](CVE-2024/CVE-2024-386xx/CVE-2024-38656.json) (`2024-11-23T21:15:14.497`)
-- [CVE-2024-39709](CVE-2024/CVE-2024-397xx/CVE-2024-39709.json) (`2024-11-23T21:15:14.647`)
-- [CVE-2024-39710](CVE-2024/CVE-2024-397xx/CVE-2024-39710.json) (`2024-11-23T21:15:14.790`)
-- [CVE-2024-39711](CVE-2024/CVE-2024-397xx/CVE-2024-39711.json) (`2024-11-23T21:15:14.887`)
-- [CVE-2024-39712](CVE-2024/CVE-2024-397xx/CVE-2024-39712.json) (`2024-11-23T21:15:14.990`)
-- [CVE-2024-52533](CVE-2024/CVE-2024-525xx/CVE-2024-52533.json) (`2024-11-23T21:15:15.090`)
+- [CVE-2024-44947](CVE-2024/CVE-2024-449xx/CVE-2024-44947.json) (`2024-11-23T23:15:03.810`)
 
 
 ## Download and Usage
