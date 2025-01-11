@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-01-11T00:55:32.905413+00:00
+2025-01-11T05:00:19.187992+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-01-10T23:15:08.810000+00:00
+2025-01-11T04:15:06.367000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,26 +27,41 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-01-10T01:00:04.357229+00:00
+2025-01-11T01:00:04.387890+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-276686
+276702
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `16`
 
+- [CVE-2024-11327](CVE-2024/CVE-2024-113xx/CVE-2024-11327.json) (`2025-01-11T03:15:19.990`)
+- [CVE-2024-12204](CVE-2024/CVE-2024-122xx/CVE-2024-12204.json) (`2025-01-11T03:15:20.997`)
+- [CVE-2024-12304](CVE-2024/CVE-2024-123xx/CVE-2024-12304.json) (`2025-01-11T04:15:06.113`)
+- [CVE-2024-12404](CVE-2024/CVE-2024-124xx/CVE-2024-12404.json) (`2025-01-11T03:15:21.140`)
+- [CVE-2024-12472](CVE-2024/CVE-2024-124xx/CVE-2024-12472.json) (`2025-01-11T03:15:21.283`)
+- [CVE-2024-12505](CVE-2024/CVE-2024-125xx/CVE-2024-12505.json) (`2025-01-11T03:15:21.430`)
+- [CVE-2024-12627](CVE-2024/CVE-2024-126xx/CVE-2024-12627.json) (`2025-01-11T03:15:21.587`)
+- [CVE-2024-42168](CVE-2024/CVE-2024-421xx/CVE-2024-42168.json) (`2025-01-11T03:15:21.737`)
+- [CVE-2024-42169](CVE-2024/CVE-2024-421xx/CVE-2024-42169.json) (`2025-01-11T03:15:21.873`)
+- [CVE-2025-0103](CVE-2025/CVE-2025-01xx/CVE-2025-0103.json) (`2025-01-11T03:15:22.020`)
+- [CVE-2025-0104](CVE-2025/CVE-2025-01xx/CVE-2025-0104.json) (`2025-01-11T03:15:22.183`)
+- [CVE-2025-0105](CVE-2025/CVE-2025-01xx/CVE-2025-0105.json) (`2025-01-11T03:15:22.317`)
+- [CVE-2025-0106](CVE-2025/CVE-2025-01xx/CVE-2025-0106.json) (`2025-01-11T03:15:22.490`)
+- [CVE-2025-0107](CVE-2025/CVE-2025-01xx/CVE-2025-0107.json) (`2025-01-11T03:15:22.637`)
+- [CVE-2025-23108](CVE-2025/CVE-2025-231xx/CVE-2025-23108.json) (`2025-01-11T04:15:06.280`)
+- [CVE-2025-23109](CVE-2025/CVE-2025-231xx/CVE-2025-23109.json) (`2025-01-11T04:15:06.367`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-- [CVE-2025-23113](CVE-2025/CVE-2025-231xx/CVE-2025-23113.json) (`2025-01-10T23:15:08.810`)
 
 
 ## Download and Usage
