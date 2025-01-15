@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-01-15T09:00:30.545806+00:00
+2025-01-15T11:00:28.038209+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-01-15T08:15:26.650000+00:00
+2025-01-15T10:15:08.607000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-277424
+277431
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `7`
 
-- [CVE-2024-11870](CVE-2024/CVE-2024-118xx/CVE-2024-11870.json) (`2025-01-15T08:15:25.633`)
-- [CVE-2024-4227](CVE-2024/CVE-2024-42xx/CVE-2024-4227.json) (`2025-01-15T08:15:25.983`)
-- [CVE-2024-7322](CVE-2024/CVE-2024-73xx/CVE-2024-7322.json) (`2025-01-15T08:15:26.177`)
-- [CVE-2025-0354](CVE-2025/CVE-2025-03xx/CVE-2025-0354.json) (`2025-01-15T08:15:26.330`)
-- [CVE-2025-0355](CVE-2025/CVE-2025-03xx/CVE-2025-0355.json) (`2025-01-15T08:15:26.493`)
-- [CVE-2025-0356](CVE-2025/CVE-2025-03xx/CVE-2025-0356.json) (`2025-01-15T08:15:26.650`)
+- [CVE-2024-10775](CVE-2024/CVE-2024-107xx/CVE-2024-10775.json) (`2025-01-15T10:15:07.030`)
+- [CVE-2024-12297](CVE-2024/CVE-2024-122xx/CVE-2024-12297.json) (`2025-01-15T10:15:07.237`)
+- [CVE-2024-12403](CVE-2024/CVE-2024-124xx/CVE-2024-12403.json) (`2025-01-15T10:15:07.433`)
+- [CVE-2024-12423](CVE-2024/CVE-2024-124xx/CVE-2024-12423.json) (`2025-01-15T10:15:07.630`)
+- [CVE-2024-12818](CVE-2024/CVE-2024-128xx/CVE-2024-12818.json) (`2025-01-15T10:15:07.803`)
+- [CVE-2024-13351](CVE-2024/CVE-2024-133xx/CVE-2024-13351.json) (`2025-01-15T10:15:07.993`)
+- [CVE-2024-9636](CVE-2024/CVE-2024-96xx/CVE-2024-9636.json) (`2025-01-15T10:15:08.607`)
 
 
 ### CVEs modified in the last Commit
 
 Recently modified CVEs: `1`
 
-- [CVE-2024-12085](CVE-2024/CVE-2024-120xx/CVE-2024-12085.json) (`2025-01-15T07:15:27.843`)
+- [CVE-2024-52337](CVE-2024/CVE-2024-523xx/CVE-2024-52337.json) (`2025-01-15T10:15:08.200`)
 
 
 ## Download and Usage
