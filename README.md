@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-02-21T03:01:47.659700+00:00
+2025-02-21T05:00:37.245347+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-02-21T02:15:28.860000+00:00
+2025-02-21T04:15:10.510000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,23 +33,29 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-281975
+281985
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `2`
+Recently added CVEs: `10`
 
-- [CVE-2024-38657](CVE-2024/CVE-2024-386xx/CVE-2024-38657.json) (`2025-02-21T02:15:28.860`)
-- [CVE-2025-1001](CVE-2025/CVE-2025-10xx/CVE-2025-1001.json) (`2025-02-21T01:15:09.533`)
+- [CVE-2024-13235](CVE-2024/CVE-2024-132xx/CVE-2024-13235.json) (`2025-02-21T04:15:09.033`)
+- [CVE-2024-13379](CVE-2024/CVE-2024-133xx/CVE-2024-13379.json) (`2025-02-21T04:15:09.200`)
+- [CVE-2024-13388](CVE-2024/CVE-2024-133xx/CVE-2024-13388.json) (`2025-02-21T04:15:09.353`)
+- [CVE-2024-13537](CVE-2024/CVE-2024-135xx/CVE-2024-13537.json) (`2025-02-21T04:15:09.513`)
+- [CVE-2024-13672](CVE-2024/CVE-2024-136xx/CVE-2024-13672.json) (`2025-02-21T04:15:09.683`)
+- [CVE-2024-13751](CVE-2024/CVE-2024-137xx/CVE-2024-13751.json) (`2025-02-21T04:15:09.837`)
+- [CVE-2024-13818](CVE-2024/CVE-2024-138xx/CVE-2024-13818.json) (`2025-02-21T04:15:09.993`)
+- [CVE-2024-13883](CVE-2024/CVE-2024-138xx/CVE-2024-13883.json) (`2025-02-21T04:15:10.160`)
+- [CVE-2025-1406](CVE-2025/CVE-2025-14xx/CVE-2025-1406.json) (`2025-02-21T04:15:10.347`)
+- [CVE-2025-1407](CVE-2025/CVE-2025-14xx/CVE-2025-1407.json) (`2025-02-21T04:15:10.510`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `0`
 
-- [CVE-2025-0111](CVE-2025/CVE-2025-01xx/CVE-2025-0111.json) (`2025-02-21T02:00:01.827`)
-- [CVE-2025-23209](CVE-2025/CVE-2025-232xx/CVE-2025-23209.json) (`2025-02-21T02:00:01.827`)
 
 
 ## Download and Usage
