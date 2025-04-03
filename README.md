@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-04-03T04:02:08.050039+00:00
+2025-04-03T06:00:22.226864+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-04-03T03:15:18.113000+00:00
+2025-04-03T05:15:42.363000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,28 +33,25 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-288271
+288277
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `5`
+Recently added CVEs: `6`
 
-- [CVE-2025-2784](CVE-2025/CVE-2025-27xx/CVE-2025-2784.json) (`2025-04-03T03:15:18.113`)
-- [CVE-2025-29991](CVE-2025/CVE-2025-299xx/CVE-2025-29991.json) (`2025-04-03T03:15:17.947`)
-- [CVE-2025-3134](CVE-2025/CVE-2025-31xx/CVE-2025-3134.json) (`2025-04-03T02:15:20.340`)
-- [CVE-2025-3135](CVE-2025/CVE-2025-31xx/CVE-2025-3135.json) (`2025-04-03T02:15:20.540`)
-- [CVE-2025-3153](CVE-2025/CVE-2025-31xx/CVE-2025-3153.json) (`2025-04-03T02:15:20.733`)
+- [CVE-2025-3136](CVE-2025/CVE-2025-31xx/CVE-2025-3136.json) (`2025-04-03T04:15:38.540`)
+- [CVE-2025-3137](CVE-2025/CVE-2025-31xx/CVE-2025-3137.json) (`2025-04-03T04:15:39.307`)
+- [CVE-2025-3138](CVE-2025/CVE-2025-31xx/CVE-2025-3138.json) (`2025-04-03T04:15:39.733`)
+- [CVE-2025-3139](CVE-2025/CVE-2025-31xx/CVE-2025-3139.json) (`2025-04-03T04:15:39.940`)
+- [CVE-2025-3140](CVE-2025/CVE-2025-31xx/CVE-2025-3140.json) (`2025-04-03T05:15:40.777`)
+- [CVE-2025-3141](CVE-2025/CVE-2025-31xx/CVE-2025-3141.json) (`2025-04-03T05:15:42.363`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `4`
+Recently modified CVEs: `0`
 
-- [CVE-2024-9675](CVE-2024/CVE-2024-96xx/CVE-2024-9675.json) (`2025-04-03T02:15:19.527`)
-- [CVE-2024-9676](CVE-2024/CVE-2024-96xx/CVE-2024-9676.json) (`2025-04-03T02:15:19.877`)
-- [CVE-2025-0624](CVE-2025/CVE-2025-06xx/CVE-2025-0624.json) (`2025-04-03T02:15:20.090`)
-- [CVE-2025-2704](CVE-2025/CVE-2025-27xx/CVE-2025-2704.json) (`2025-04-03T02:15:20.240`)
 
 
 ## Download and Usage
