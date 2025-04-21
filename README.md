@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-04-21T08:00:20.071406+00:00
+2025-04-21T10:00:20.190056+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-04-21T06:15:44.043000+00:00
+2025-04-21T08:15:29.603000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,14 +33,14 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-290956
+290957
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `1`
 
-- [CVE-2025-0632](CVE-2025/CVE-2025-06xx/CVE-2025-0632.json) (`2025-04-21T06:15:44.043`)
+- [CVE-2025-25228](CVE-2025/CVE-2025-252xx/CVE-2025-25228.json) (`2025-04-21T08:15:29.603`)
 
 
 ### CVEs modified in the last Commit
