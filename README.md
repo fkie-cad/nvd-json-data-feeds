@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-04-27T22:00:19.686475+00:00
+2025-04-27T23:55:19.543940+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-04-27T21:15:16.943000+00:00
+2025-04-27T23:15:15.757000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,25 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-291538
+291544
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `6`
 
-- [CVE-2025-3983](CVE-2025/CVE-2025-39xx/CVE-2025-3983.json) (`2025-04-27T20:15:15.350`)
-- [CVE-2025-3984](CVE-2025/CVE-2025-39xx/CVE-2025-3984.json) (`2025-04-27T20:15:15.537`)
-- [CVE-2025-3985](CVE-2025/CVE-2025-39xx/CVE-2025-3985.json) (`2025-04-27T21:15:16.300`)
-- [CVE-2025-3986](CVE-2025/CVE-2025-39xx/CVE-2025-3986.json) (`2025-04-27T21:15:16.943`)
-- [CVE-2025-46687](CVE-2025/CVE-2025-466xx/CVE-2025-46687.json) (`2025-04-27T20:15:15.720`)
-- [CVE-2025-46688](CVE-2025/CVE-2025-466xx/CVE-2025-46688.json) (`2025-04-27T20:15:15.877`)
+- [CVE-2025-3987](CVE-2025/CVE-2025-39xx/CVE-2025-3987.json) (`2025-04-27T22:15:14.863`)
+- [CVE-2025-3988](CVE-2025/CVE-2025-39xx/CVE-2025-3988.json) (`2025-04-27T22:15:15.037`)
+- [CVE-2025-3989](CVE-2025/CVE-2025-39xx/CVE-2025-3989.json) (`2025-04-27T23:15:14.890`)
+- [CVE-2025-3990](CVE-2025/CVE-2025-39xx/CVE-2025-3990.json) (`2025-04-27T23:15:15.757`)
+- [CVE-2025-46689](CVE-2025/CVE-2025-466xx/CVE-2025-46689.json) (`2025-04-27T22:15:15.217`)
+- [CVE-2025-46690](CVE-2025/CVE-2025-466xx/CVE-2025-46690.json) (`2025-04-27T22:15:15.360`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-- [CVE-2025-3235](CVE-2025/CVE-2025-32xx/CVE-2025-3235.json) (`2025-04-27T20:15:15.203`)
 
 
 ## Download and Usage
