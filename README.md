@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-05-15T06:00:19.469568+00:00
+2025-05-15T08:00:19.632420+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-05-15T05:15:51.377000+00:00
+2025-05-15T07:15:51.397000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,25 +33,28 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-293989
+293995
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `6`
 
-- [CVE-2025-3053](CVE-2025/CVE-2025-30xx/CVE-2025-3053.json) (`2025-05-15T05:15:50.830`)
-- [CVE-2025-3917](CVE-2025/CVE-2025-39xx/CVE-2025-3917.json) (`2025-05-15T04:16:12.617`)
-- [CVE-2025-4126](CVE-2025/CVE-2025-41xx/CVE-2025-4126.json) (`2025-05-15T04:16:17.283`)
-- [CVE-2025-4589](CVE-2025/CVE-2025-45xx/CVE-2025-4589.json) (`2025-05-15T04:16:17.527`)
-- [CVE-2025-4591](CVE-2025/CVE-2025-45xx/CVE-2025-4591.json) (`2025-05-15T04:16:18.797`)
-- [CVE-2025-48024](CVE-2025/CVE-2025-480xx/CVE-2025-48024.json) (`2025-05-15T05:15:51.377`)
+- [CVE-2024-13914](CVE-2024/CVE-2024-139xx/CVE-2024-13914.json) (`2025-05-15T06:15:36.480`)
+- [CVE-2025-27523](CVE-2025/CVE-2025-275xx/CVE-2025-27523.json) (`2025-05-15T07:15:50.490`)
+- [CVE-2025-27524](CVE-2025/CVE-2025-275xx/CVE-2025-27524.json) (`2025-05-15T07:15:50.660`)
+- [CVE-2025-27525](CVE-2025/CVE-2025-275xx/CVE-2025-27525.json) (`2025-05-15T07:15:50.783`)
+- [CVE-2025-3742](CVE-2025/CVE-2025-37xx/CVE-2025-3742.json) (`2025-05-15T06:15:37.867`)
+- [CVE-2025-48027](CVE-2025/CVE-2025-480xx/CVE-2025-48027.json) (`2025-05-15T06:15:37.967`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `3`
 
+- [CVE-2024-10969](CVE-2024/CVE-2024-109xx/CVE-2024-10969.json) (`2025-05-15T07:15:50.080`)
+- [CVE-2025-4358](CVE-2025/CVE-2025-43xx/CVE-2025-4358.json) (`2025-05-15T07:15:50.917`)
+- [CVE-2025-4467](CVE-2025/CVE-2025-44xx/CVE-2025-4467.json) (`2025-05-15T07:15:51.397`)
 
 
 ## Download and Usage
