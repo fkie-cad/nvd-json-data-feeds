@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-06-05T10:00:20.740230+00:00
+2025-06-05T12:00:21.484429+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-06-05T09:15:23.353000+00:00
+2025-06-05T11:15:22.313000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,27 +33,26 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-296557
+296564
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `5`
+Recently added CVEs: `7`
 
-- [CVE-2025-5645](CVE-2025/CVE-2025-56xx/CVE-2025-5645.json) (`2025-06-05T08:15:20.973`)
-- [CVE-2025-5646](CVE-2025/CVE-2025-56xx/CVE-2025-5646.json) (`2025-06-05T08:15:21.197`)
-- [CVE-2025-5647](CVE-2025/CVE-2025-56xx/CVE-2025-5647.json) (`2025-06-05T09:15:22.847`)
-- [CVE-2025-5648](CVE-2025/CVE-2025-56xx/CVE-2025-5648.json) (`2025-06-05T09:15:23.123`)
-- [CVE-2025-5649](CVE-2025/CVE-2025-56xx/CVE-2025-5649.json) (`2025-06-05T09:15:23.353`)
+- [CVE-2025-4568](CVE-2025/CVE-2025-45xx/CVE-2025-4568.json) (`2025-06-05T10:15:21.730`)
+- [CVE-2025-5650](CVE-2025/CVE-2025-56xx/CVE-2025-5650.json) (`2025-06-05T10:15:23.020`)
+- [CVE-2025-5651](CVE-2025/CVE-2025-56xx/CVE-2025-5651.json) (`2025-06-05T10:15:23.270`)
+- [CVE-2025-5652](CVE-2025/CVE-2025-56xx/CVE-2025-5652.json) (`2025-06-05T10:15:23.477`)
+- [CVE-2025-5653](CVE-2025/CVE-2025-56xx/CVE-2025-5653.json) (`2025-06-05T11:15:21.093`)
+- [CVE-2025-5654](CVE-2025/CVE-2025-56xx/CVE-2025-5654.json) (`2025-06-05T11:15:22.133`)
+- [CVE-2025-5655](CVE-2025/CVE-2025-56xx/CVE-2025-5655.json) (`2025-06-05T11:15:22.313`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `3`
+Recently modified CVEs: `0`
 
-- [CVE-2023-6837](CVE-2023/CVE-2023-68xx/CVE-2023-6837.json) (`2025-06-05T09:15:21.813`)
-- [CVE-2025-47577](CVE-2025/CVE-2025-475xx/CVE-2025-47577.json) (`2025-06-05T09:15:22.680`)
-- [CVE-2025-5644](CVE-2025/CVE-2025-56xx/CVE-2025-5644.json) (`2025-06-05T07:15:23.990`)
 
 
 ## Download and Usage
