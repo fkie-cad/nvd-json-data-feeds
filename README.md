@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-06-11T04:00:18.797149+00:00
+2025-06-11T06:00:19.642510+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-06-11T03:15:22.650000+00:00
+2025-06-11T04:15:59.223000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,31 +33,22 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-297698
+297701
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `11`
+Recently added CVEs: `3`
 
-- [CVE-2024-1243](CVE-2024/CVE-2024-12xx/CVE-2024-1243.json) (`2025-06-11T02:15:20.270`)
-- [CVE-2024-1244](CVE-2024/CVE-2024-12xx/CVE-2024-1244.json) (`2025-06-11T03:15:21.253`)
-- [CVE-2025-49785](CVE-2025/CVE-2025-497xx/CVE-2025-49785.json) (`2025-06-11T03:15:22.123`)
-- [CVE-2025-49786](CVE-2025/CVE-2025-497xx/CVE-2025-49786.json) (`2025-06-11T03:15:22.203`)
-- [CVE-2025-49787](CVE-2025/CVE-2025-497xx/CVE-2025-49787.json) (`2025-06-11T03:15:22.267`)
-- [CVE-2025-49788](CVE-2025/CVE-2025-497xx/CVE-2025-49788.json) (`2025-06-11T03:15:22.330`)
-- [CVE-2025-49789](CVE-2025/CVE-2025-497xx/CVE-2025-49789.json) (`2025-06-11T03:15:22.397`)
-- [CVE-2025-49790](CVE-2025/CVE-2025-497xx/CVE-2025-49790.json) (`2025-06-11T03:15:22.463`)
-- [CVE-2025-49791](CVE-2025/CVE-2025-497xx/CVE-2025-49791.json) (`2025-06-11T03:15:22.527`)
-- [CVE-2025-49792](CVE-2025/CVE-2025-497xx/CVE-2025-49792.json) (`2025-06-11T03:15:22.587`)
-- [CVE-2025-49793](CVE-2025/CVE-2025-497xx/CVE-2025-49793.json) (`2025-06-11T03:15:22.650`)
+- [CVE-2025-4666](CVE-2025/CVE-2025-46xx/CVE-2025-4666.json) (`2025-06-11T04:15:53.280`)
+- [CVE-2025-4798](CVE-2025/CVE-2025-47xx/CVE-2025-4798.json) (`2025-06-11T04:15:58.497`)
+- [CVE-2025-4799](CVE-2025/CVE-2025-47xx/CVE-2025-4799.json) (`2025-06-11T04:15:59.223`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-- [CVE-2025-4275](CVE-2025/CVE-2025-42xx/CVE-2025-4275.json) (`2025-06-11T02:15:21.300`)
 
 
 ## Download and Usage
