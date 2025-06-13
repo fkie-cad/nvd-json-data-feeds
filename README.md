@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-06-13T06:00:19.189859+00:00
+2025-06-13T08:00:19.160782+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-06-13T04:15:33.020000+00:00
+2025-06-13T07:15:22.663000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,21 +33,33 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-297859
+297872
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `2`
+Recently added CVEs: `13`
 
-- [CVE-2025-5282](CVE-2025/CVE-2025-52xx/CVE-2025-5282.json) (`2025-06-13T04:15:28.983`)
-- [CVE-2025-5815](CVE-2025/CVE-2025-58xx/CVE-2025-5815.json) (`2025-06-13T04:15:33.020`)
+- [CVE-2024-38822](CVE-2024/CVE-2024-388xx/CVE-2024-38822.json) (`2025-06-13T07:15:19.300`)
+- [CVE-2024-38823](CVE-2024/CVE-2024-388xx/CVE-2024-38823.json) (`2025-06-13T07:15:20.580`)
+- [CVE-2024-38825](CVE-2024/CVE-2024-388xx/CVE-2024-38825.json) (`2025-06-13T07:15:20.717`)
+- [CVE-2025-22236](CVE-2025/CVE-2025-222xx/CVE-2025-22236.json) (`2025-06-13T07:15:20.863`)
+- [CVE-2025-22237](CVE-2025/CVE-2025-222xx/CVE-2025-22237.json) (`2025-06-13T07:15:21.010`)
+- [CVE-2025-22238](CVE-2025/CVE-2025-222xx/CVE-2025-22238.json) (`2025-06-13T07:15:21.150`)
+- [CVE-2025-22239](CVE-2025/CVE-2025-222xx/CVE-2025-22239.json) (`2025-06-13T07:15:21.290`)
+- [CVE-2025-22240](CVE-2025/CVE-2025-222xx/CVE-2025-22240.json) (`2025-06-13T07:15:21.430`)
+- [CVE-2025-22241](CVE-2025/CVE-2025-222xx/CVE-2025-22241.json) (`2025-06-13T07:15:21.567`)
+- [CVE-2025-22242](CVE-2025/CVE-2025-222xx/CVE-2025-22242.json) (`2025-06-13T07:15:21.710`)
+- [CVE-2025-4227](CVE-2025/CVE-2025-42xx/CVE-2025-4227.json) (`2025-06-13T06:15:22.253`)
+- [CVE-2025-4229](CVE-2025/CVE-2025-42xx/CVE-2025-4229.json) (`2025-06-13T06:15:22.490`)
+- [CVE-2025-5923](CVE-2025/CVE-2025-59xx/CVE-2025-5923.json) (`2025-06-13T07:15:22.663`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `1`
 
+- [CVE-2024-6538](CVE-2024/CVE-2024-65xx/CVE-2024-6538.json) (`2025-06-13T06:15:21.310`)
 
 
 ## Download and Usage
