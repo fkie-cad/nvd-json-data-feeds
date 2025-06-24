@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-06-24T06:00:19.212488+00:00
+2025-06-24T08:00:19.446543+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-06-24T05:15:24.727000+00:00
+2025-06-24T07:15:26.157000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,29 +33,23 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-299178
+299179
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `10`
+Recently added CVEs: `1`
 
-- [CVE-2024-56731](CVE-2024/CVE-2024-567xx/CVE-2024-56731.json) (`2025-06-24T04:15:45.813`)
-- [CVE-2025-36519](CVE-2025/CVE-2025-365xx/CVE-2025-36519.json) (`2025-06-24T05:15:23.030`)
-- [CVE-2025-41427](CVE-2025/CVE-2025-414xx/CVE-2025-41427.json) (`2025-06-24T05:15:24.243`)
-- [CVE-2025-43877](CVE-2025/CVE-2025-438xx/CVE-2025-43877.json) (`2025-06-24T05:15:24.403`)
-- [CVE-2025-43879](CVE-2025/CVE-2025-438xx/CVE-2025-43879.json) (`2025-06-24T05:15:24.567`)
-- [CVE-2025-47943](CVE-2025/CVE-2025-479xx/CVE-2025-47943.json) (`2025-06-24T04:15:46.743`)
-- [CVE-2025-48890](CVE-2025/CVE-2025-488xx/CVE-2025-48890.json) (`2025-06-24T05:15:24.727`)
-- [CVE-2025-52566](CVE-2025/CVE-2025-525xx/CVE-2025-52566.json) (`2025-06-24T04:15:46.967`)
-- [CVE-2025-52568](CVE-2025/CVE-2025-525xx/CVE-2025-52568.json) (`2025-06-24T04:15:49.693`)
-- [CVE-2025-52570](CVE-2025/CVE-2025-525xx/CVE-2025-52570.json) (`2025-06-24T04:15:50.360`)
+- [CVE-2025-2962](CVE-2025/CVE-2025-29xx/CVE-2025-2962.json) (`2025-06-24T06:15:21.343`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `3`
 
+- [CVE-2024-10306](CVE-2024/CVE-2024-103xx/CVE-2024-10306.json) (`2025-06-24T07:15:25.567`)
+- [CVE-2024-13484](CVE-2024/CVE-2024-134xx/CVE-2024-13484.json) (`2025-06-24T07:15:25.973`)
+- [CVE-2025-3576](CVE-2025/CVE-2025-35xx/CVE-2025-3576.json) (`2025-06-24T07:15:26.157`)
 
 
 ## Download and Usage
