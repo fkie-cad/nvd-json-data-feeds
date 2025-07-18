@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-07-17T23:55:11.360228+00:00
+2025-07-18T02:00:11.146049+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-07-17T23:15:23.623000+00:00
+2025-07-18T01:15:23.233000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,37 +27,27 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-07-17T00:00:02.121152+00:00
+2025-07-18T00:00:02.118836+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-302271
+302273
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `9`
+Recently added CVEs: `2`
 
-- [CVE-2025-6391](CVE-2025/CVE-2025-63xx/CVE-2025-6391.json) (`2025-07-17T22:15:26.263`)
-- [CVE-2025-7397](CVE-2025/CVE-2025-73xx/CVE-2025-7397.json) (`2025-07-17T22:15:27.270`)
-- [CVE-2025-7398](CVE-2025/CVE-2025-73xx/CVE-2025-7398.json) (`2025-07-17T22:15:27.413`)
-- [CVE-2025-7758](CVE-2025/CVE-2025-77xx/CVE-2025-7758.json) (`2025-07-17T22:15:27.537`)
-- [CVE-2025-7759](CVE-2025/CVE-2025-77xx/CVE-2025-7759.json) (`2025-07-17T22:15:27.710`)
-- [CVE-2025-7762](CVE-2025/CVE-2025-77xx/CVE-2025-7762.json) (`2025-07-17T22:15:27.903`)
-- [CVE-2025-7763](CVE-2025/CVE-2025-77xx/CVE-2025-7763.json) (`2025-07-17T23:15:23.217`)
-- [CVE-2025-7764](CVE-2025/CVE-2025-77xx/CVE-2025-7764.json) (`2025-07-17T23:15:23.447`)
-- [CVE-2025-7765](CVE-2025/CVE-2025-77xx/CVE-2025-7765.json) (`2025-07-17T23:15:23.623`)
+- [CVE-2025-6185](CVE-2025/CVE-2025-61xx/CVE-2025-6185.json) (`2025-07-18T00:15:24.463`)
+- [CVE-2025-7767](CVE-2025/CVE-2025-77xx/CVE-2025-7767.json) (`2025-07-18T01:15:23.233`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `3`
+Recently modified CVEs: `0`
 
-- [CVE-2025-49717](CVE-2025/CVE-2025-497xx/CVE-2025-49717.json) (`2025-07-17T22:00:00.207`)
-- [CVE-2025-49718](CVE-2025/CVE-2025-497xx/CVE-2025-49718.json) (`2025-07-17T22:00:03.770`)
-- [CVE-2025-49719](CVE-2025/CVE-2025-497xx/CVE-2025-49719.json) (`2025-07-17T22:00:09.730`)
 
 
 ## Download and Usage
