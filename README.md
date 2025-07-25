@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-07-24T23:55:11.468860+00:00
+2025-07-25T02:00:11.697171+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-07-24T23:15:26.883000+00:00
+2025-07-25T01:15:45.363000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,33 +27,32 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-07-24T00:00:02.129596+00:00
+2025-07-25T00:00:02.123739+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-303025
+303032
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `7`
 
-- [CVE-2025-22165](CVE-2025/CVE-2025-221xx/CVE-2025-22165.json) (`2025-07-24T23:15:26.127`)
-- [CVE-2025-32429](CVE-2025/CVE-2025-324xx/CVE-2025-32429.json) (`2025-07-24T23:15:26.283`)
-- [CVE-2025-3614](CVE-2025/CVE-2025-36xx/CVE-2025-3614.json) (`2025-07-24T23:15:26.453`)
-- [CVE-2025-53940](CVE-2025/CVE-2025-539xx/CVE-2025-53940.json) (`2025-07-24T23:15:26.620`)
-- [CVE-2025-54369](CVE-2025/CVE-2025-543xx/CVE-2025-54369.json) (`2025-07-24T23:15:26.790`)
-- [CVE-2025-54379](CVE-2025/CVE-2025-543xx/CVE-2025-54379.json) (`2025-07-24T23:15:26.883`)
+- [CVE-2025-0249](CVE-2025/CVE-2025-02xx/CVE-2025-0249.json) (`2025-07-25T00:15:24.627`)
+- [CVE-2025-0250](CVE-2025/CVE-2025-02xx/CVE-2025-0250.json) (`2025-07-25T00:15:24.810`)
+- [CVE-2025-0251](CVE-2025/CVE-2025-02xx/CVE-2025-0251.json) (`2025-07-25T01:15:44.613`)
+- [CVE-2025-0252](CVE-2025/CVE-2025-02xx/CVE-2025-0252.json) (`2025-07-25T01:15:45.210`)
+- [CVE-2025-0253](CVE-2025/CVE-2025-02xx/CVE-2025-0253.json) (`2025-07-25T01:15:45.363`)
+- [CVE-2025-7742](CVE-2025/CVE-2025-77xx/CVE-2025-7742.json) (`2025-07-25T00:15:24.960`)
+- [CVE-2025-8124](CVE-2025/CVE-2025-81xx/CVE-2025-8124.json) (`2025-07-25T00:15:25.123`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `0`
 
-- [CVE-2014-9188](CVE-2014/CVE-2014-91xx/CVE-2014-9188.json) (`2025-07-24T23:15:24.770`)
-- [CVE-2014-9190](CVE-2014/CVE-2014-91xx/CVE-2014-9190.json) (`2025-07-24T23:15:25.860`)
 
 
 ## Download and Usage
