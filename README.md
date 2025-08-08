@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-08-08T04:00:11.809573+00:00
+2025-08-08T06:00:12.834064+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-08-08T03:15:25.533000+00:00
+2025-08-08T05:15:32.730000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,27 +33,25 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-304589
+304595
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `3`
+Recently added CVEs: `6`
 
-- [CVE-2025-8706](CVE-2025/CVE-2025-87xx/CVE-2025-8706.json) (`2025-08-08T02:15:24.530`)
-- [CVE-2025-8707](CVE-2025/CVE-2025-87xx/CVE-2025-8707.json) (`2025-08-08T03:15:25.317`)
-- [CVE-2025-8708](CVE-2025/CVE-2025-87xx/CVE-2025-8708.json) (`2025-08-08T03:15:25.533`)
+- [CVE-2024-58255](CVE-2024/CVE-2024-582xx/CVE-2024-58255.json) (`2025-08-08T04:15:59.047`)
+- [CVE-2024-58256](CVE-2024/CVE-2024-582xx/CVE-2024-58256.json) (`2025-08-08T04:16:03.380`)
+- [CVE-2024-58257](CVE-2024/CVE-2024-582xx/CVE-2024-58257.json) (`2025-08-08T04:16:04.223`)
+- [CVE-2025-54940](CVE-2025/CVE-2025-549xx/CVE-2025-54940.json) (`2025-08-08T05:15:32.317`)
+- [CVE-2025-54958](CVE-2025/CVE-2025-549xx/CVE-2025-54958.json) (`2025-08-08T05:15:32.560`)
+- [CVE-2025-54959](CVE-2025/CVE-2025-549xx/CVE-2025-54959.json) (`2025-08-08T05:15:32.730`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `5`
+Recently modified CVEs: `0`
 
-- [CVE-2024-31308](CVE-2024/CVE-2024-313xx/CVE-2024-31308.json) (`2025-08-08T02:00:14.527`)
-- [CVE-2024-47106](CVE-2024/CVE-2024-471xx/CVE-2024-47106.json) (`2025-08-08T02:09:59.613`)
-- [CVE-2024-49354](CVE-2024/CVE-2024-493xx/CVE-2024-49354.json) (`2025-08-08T02:10:41.107`)
-- [CVE-2025-0682](CVE-2025/CVE-2025-06xx/CVE-2025-0682.json) (`2025-08-08T02:08:56.800`)
-- [CVE-2025-22763](CVE-2025/CVE-2025-227xx/CVE-2025-22763.json) (`2025-08-08T02:04:23.513`)
 
 
 ## Download and Usage
