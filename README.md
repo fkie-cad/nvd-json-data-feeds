@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-09-05T23:55:11.126099+00:00
+2025-09-06T02:00:11.488588+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-09-05T23:15:30.830000+00:00
+2025-09-06T01:15:30.153000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,38 +27,28 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-09-05T00:00:02.107177+00:00
+2025-09-06T00:00:02.128461+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-308534
+308537
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `9`
+Recently added CVEs: `3`
 
-- [CVE-2025-10027](CVE-2025/CVE-2025-100xx/CVE-2025-10027.json) (`2025-09-05T22:15:34.100`)
-- [CVE-2025-57807](CVE-2025/CVE-2025-578xx/CVE-2025-57807.json) (`2025-09-05T22:15:34.340`)
-- [CVE-2025-58366](CVE-2025/CVE-2025-583xx/CVE-2025-58366.json) (`2025-09-05T22:15:34.527`)
-- [CVE-2025-58367](CVE-2025/CVE-2025-583xx/CVE-2025-58367.json) (`2025-09-05T22:15:34.710`)
-- [CVE-2025-58369](CVE-2025/CVE-2025-583xx/CVE-2025-58369.json) (`2025-09-05T22:15:34.883`)
-- [CVE-2025-58370](CVE-2025/CVE-2025-583xx/CVE-2025-58370.json) (`2025-09-05T23:15:30.260`)
-- [CVE-2025-58371](CVE-2025/CVE-2025-583xx/CVE-2025-58371.json) (`2025-09-05T23:15:30.467`)
-- [CVE-2025-58372](CVE-2025/CVE-2025-583xx/CVE-2025-58372.json) (`2025-09-05T23:15:30.647`)
-- [CVE-2025-58373](CVE-2025/CVE-2025-583xx/CVE-2025-58373.json) (`2025-09-05T23:15:30.830`)
+- [CVE-2021-26383](CVE-2021/CVE-2021-263xx/CVE-2021-26383.json) (`2025-09-06T00:15:33.930`)
+- [CVE-2025-58375](CVE-2025/CVE-2025-583xx/CVE-2025-58375.json) (`2025-09-06T00:15:35.047`)
+- [CVE-2025-58439](CVE-2025/CVE-2025-584xx/CVE-2025-58439.json) (`2025-09-06T01:15:30.153`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `4`
+Recently modified CVEs: `0`
 
-- [CVE-2014-9197](CVE-2014/CVE-2014-91xx/CVE-2014-9197.json) (`2025-09-05T22:15:33.210`)
-- [CVE-2014-9198](CVE-2014/CVE-2014-91xx/CVE-2014-9198.json) (`2025-09-05T22:15:33.430`)
-- [CVE-2014-9199](CVE-2014/CVE-2014-91xx/CVE-2014-9199.json) (`2025-09-05T22:15:33.613`)
-- [CVE-2014-9200](CVE-2014/CVE-2014-92xx/CVE-2014-9200.json) (`2025-09-05T22:15:33.803`)
 
 
 ## Download and Usage
