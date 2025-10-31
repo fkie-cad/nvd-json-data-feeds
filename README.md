@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-10-31T00:55:11.272051+00:00
+2025-10-31T03:00:12.305404+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-10-31T00:15:37.480000+00:00
+2025-10-31T02:15:31.873000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,37 +27,29 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-10-30T01:00:02.203029+00:00
+2025-10-31T01:00:02.134585+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-316417
+316418
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `10`
+Recently added CVEs: `1`
 
-- [CVE-2025-27208](CVE-2025/CVE-2025-272xx/CVE-2025-27208.json) (`2025-10-31T00:15:36.190`)
-- [CVE-2025-48980](CVE-2025/CVE-2025-489xx/CVE-2025-48980.json) (`2025-10-31T00:15:36.327`)
-- [CVE-2025-48982](CVE-2025/CVE-2025-489xx/CVE-2025-48982.json) (`2025-10-31T00:15:36.437`)
-- [CVE-2025-48983](CVE-2025/CVE-2025-489xx/CVE-2025-48983.json) (`2025-10-31T00:15:36.553`)
-- [CVE-2025-48984](CVE-2025/CVE-2025-489xx/CVE-2025-48984.json) (`2025-10-31T00:15:36.673`)
-- [CVE-2025-52663](CVE-2025/CVE-2025-526xx/CVE-2025-52663.json) (`2025-10-31T00:15:36.773`)
-- [CVE-2025-52664](CVE-2025/CVE-2025-526xx/CVE-2025-52664.json) (`2025-10-31T00:15:36.883`)
-- [CVE-2025-52665](CVE-2025/CVE-2025-526xx/CVE-2025-52665.json) (`2025-10-31T00:15:37.000`)
-- [CVE-2025-6176](CVE-2025/CVE-2025-61xx/CVE-2025-6176.json) (`2025-10-31T00:15:37.333`)
-- [CVE-2025-8849](CVE-2025/CVE-2025-88xx/CVE-2025-8849.json) (`2025-10-31T00:15:37.480`)
+- [CVE-2025-23050](CVE-2025/CVE-2025-230xx/CVE-2025-23050.json) (`2025-10-31T02:15:31.873`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `3`
 
-- [CVE-2024-39097](CVE-2024/CVE-2024-390xx/CVE-2024-39097.json) (`2025-10-31T00:15:35.913`)
-- [CVE-2025-57353](CVE-2025/CVE-2025-573xx/CVE-2025-57353.json) (`2025-10-31T00:15:37.110`)
+- [CVE-2025-24893](CVE-2025/CVE-2025-248xx/CVE-2025-24893.json) (`2025-10-31T01:00:01.980`)
+- [CVE-2025-41244](CVE-2025/CVE-2025-412xx/CVE-2025-41244.json) (`2025-10-31T01:00:01.980`)
+- [CVE-2025-54236](CVE-2025/CVE-2025-542xx/CVE-2025-54236.json) (`2025-10-31T01:00:01.980`)
 
 
 ## Download and Usage
