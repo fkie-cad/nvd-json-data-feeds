@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-11-01T00:55:11.920073+00:00
+2025-11-01T03:00:11.183243+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-11-01T00:15:33.387000+00:00
+2025-11-01T02:15:33.207000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,33 +27,30 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-10-31T01:00:02.134585+00:00
+2025-11-01T01:00:02.134395+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-316519
+316523
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `1`
+Recently added CVEs: `4`
 
-- [CVE-2025-62276](CVE-2025/CVE-2025-622xx/CVE-2025-62276.json) (`2025-11-01T00:15:33.387`)
+- [CVE-2025-11174](CVE-2025/CVE-2025-111xx/CVE-2025-11174.json) (`2025-11-01T02:15:31.847`)
+- [CVE-2025-11816](CVE-2025/CVE-2025-118xx/CVE-2025-11816.json) (`2025-11-01T02:15:32.843`)
+- [CVE-2025-11920](CVE-2025/CVE-2025-119xx/CVE-2025-11920.json) (`2025-11-01T02:15:33.037`)
+- [CVE-2025-11922](CVE-2025/CVE-2025-119xx/CVE-2025-11922.json) (`2025-11-01T02:15:33.207`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `7`
+Recently modified CVEs: `1`
 
-- [CVE-2014-2349](CVE-2014/CVE-2014-23xx/CVE-2014-2349.json) (`2025-10-31T23:15:31.537`)
-- [CVE-2014-2350](CVE-2014/CVE-2014-23xx/CVE-2014-2350.json) (`2025-10-31T23:15:32.127`)
-- [CVE-2014-2380](CVE-2014/CVE-2014-23xx/CVE-2014-2380.json) (`2025-11-01T00:15:32.230`)
-- [CVE-2014-2381](CVE-2014/CVE-2014-23xx/CVE-2014-2381.json) (`2025-11-01T00:15:32.600`)
-- [CVE-2014-5397](CVE-2014/CVE-2014-53xx/CVE-2014-5397.json) (`2025-11-01T00:15:32.767`)
-- [CVE-2014-5398](CVE-2014/CVE-2014-53xx/CVE-2014-5398.json) (`2025-11-01T00:15:32.950`)
-- [CVE-2014-5399](CVE-2014/CVE-2014-53xx/CVE-2014-5399.json) (`2025-11-01T00:15:33.110`)
+- [CVE-2025-54236](CVE-2025/CVE-2025-542xx/CVE-2025-54236.json) (`2025-11-01T01:00:02.077`)
 
 
 ## Download and Usage
