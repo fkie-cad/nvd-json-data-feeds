@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-11-25T00:55:11.566361+00:00
+2025-11-25T03:00:10.756723+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-11-25T00:15:47.610000+00:00
+2025-11-25T02:15:44.783000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,31 +27,32 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2025-11-24T01:00:02.137643+00:00
+2025-11-25T01:00:02.129485+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-319247
+319252
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `5`
 
-- [CVE-2025-10144](CVE-2025/CVE-2025-101xx/CVE-2025-10144.json) (`2025-11-24T23:15:46.880`)
-- [CVE-2025-62155](CVE-2025/CVE-2025-621xx/CVE-2025-62155.json) (`2025-11-25T00:15:46.560`)
-- [CVE-2025-64505](CVE-2025/CVE-2025-645xx/CVE-2025-64505.json) (`2025-11-25T00:15:47.133`)
-- [CVE-2025-64506](CVE-2025/CVE-2025-645xx/CVE-2025-64506.json) (`2025-11-25T00:15:47.300`)
-- [CVE-2025-64720](CVE-2025/CVE-2025-647xx/CVE-2025-64720.json) (`2025-11-25T00:15:47.460`)
-- [CVE-2025-65018](CVE-2025/CVE-2025-650xx/CVE-2025-65018.json) (`2025-11-25T00:15:47.610`)
+- [CVE-2025-59373](CVE-2025/CVE-2025-593xx/CVE-2025-59373.json) (`2025-11-25T02:15:44.783`)
+- [CVE-2025-64761](CVE-2025/CVE-2025-647xx/CVE-2025-64761.json) (`2025-11-25T01:15:46.460`)
+- [CVE-2025-65944](CVE-2025/CVE-2025-659xx/CVE-2025-65944.json) (`2025-11-25T01:15:46.623`)
+- [CVE-2025-65951](CVE-2025/CVE-2025-659xx/CVE-2025-65951.json) (`2025-11-25T01:15:46.800`)
+- [CVE-2025-9803](CVE-2025/CVE-2025-98xx/CVE-2025-9803.json) (`2025-11-25T01:15:47.137`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `2`
 
+- [CVE-2023-41419](CVE-2023/CVE-2023-414xx/CVE-2023-41419.json) (`2025-11-25T01:15:46.213`)
+- [CVE-2025-54236](CVE-2025/CVE-2025-542xx/CVE-2025-54236.json) (`2025-11-25T02:00:02.110`)
 
 
 ## Download and Usage
