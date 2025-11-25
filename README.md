@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-11-25T11:00:11.193005+00:00
+2025-11-25T13:00:11.117738+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-11-25T09:15:45.810000+00:00
+2025-11-25T12:15:47.050000+00:00
 ```
 
 ### Last Data Feed Release
@@ -44,11 +44,14 @@ Recently added CVEs: `0`
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `3`
+Recently modified CVEs: `6`
 
-- [CVE-2025-62229](CVE-2025/CVE-2025-622xx/CVE-2025-62229.json) (`2025-11-25T09:15:45.520`)
-- [CVE-2025-62230](CVE-2025/CVE-2025-622xx/CVE-2025-62230.json) (`2025-11-25T09:15:45.663`)
-- [CVE-2025-62231](CVE-2025/CVE-2025-622xx/CVE-2025-62231.json) (`2025-11-25T09:15:45.810`)
+- [CVE-2024-11831](CVE-2024/CVE-2024-118xx/CVE-2024-11831.json) (`2025-11-25T12:15:47.050`)
+- [CVE-2024-8176](CVE-2024/CVE-2024-81xx/CVE-2024-8176.json) (`2025-11-25T11:15:45.650`)
+- [CVE-2025-6020](CVE-2025/CVE-2025-60xx/CVE-2025-6020.json) (`2025-11-25T11:15:48.903`)
+- [CVE-2025-62229](CVE-2025/CVE-2025-622xx/CVE-2025-62229.json) (`2025-11-25T11:15:48.223`)
+- [CVE-2025-62230](CVE-2025/CVE-2025-622xx/CVE-2025-62230.json) (`2025-11-25T11:15:48.450`)
+- [CVE-2025-62231](CVE-2025/CVE-2025-622xx/CVE-2025-62231.json) (`2025-11-25T11:15:48.657`)
 
 
 ## Download and Usage
