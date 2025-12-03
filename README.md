@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2025-12-03T03:00:11.380743+00:00
+2025-12-03T05:00:11.627598+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2025-12-03T02:00:02.087000+00:00
+2025-12-03T04:15:59.830000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,27 +33,25 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-319958
+319964
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `0`
+Recently added CVEs: `6`
 
+- [CVE-2025-10304](CVE-2025/CVE-2025-103xx/CVE-2025-10304.json) (`2025-12-03T04:15:58.613`)
+- [CVE-2025-12585](CVE-2025/CVE-2025-125xx/CVE-2025-12585.json) (`2025-12-03T04:15:59.650`)
+- [CVE-2025-13448](CVE-2025/CVE-2025-134xx/CVE-2025-13448.json) (`2025-12-03T03:15:58.803`)
+- [CVE-2025-13495](CVE-2025/CVE-2025-134xx/CVE-2025-13495.json) (`2025-12-03T04:15:59.830`)
+- [CVE-2025-13645](CVE-2025/CVE-2025-136xx/CVE-2025-13645.json) (`2025-12-03T03:15:59.840`)
+- [CVE-2025-13646](CVE-2025/CVE-2025-136xx/CVE-2025-13646.json) (`2025-12-03T03:16:00.033`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `8`
+Recently modified CVEs: `0`
 
-- [CVE-2021-3448](CVE-2021/CVE-2021-34xx/CVE-2021-3448.json) (`2025-12-03T01:15:46.820`)
-- [CVE-2025-13634](CVE-2025/CVE-2025-136xx/CVE-2025-13634.json) (`2025-12-03T01:15:47.210`)
-- [CVE-2025-13635](CVE-2025/CVE-2025-136xx/CVE-2025-13635.json) (`2025-12-03T01:15:47.370`)
-- [CVE-2025-13636](CVE-2025/CVE-2025-136xx/CVE-2025-13636.json) (`2025-12-03T01:15:47.540`)
-- [CVE-2025-13637](CVE-2025/CVE-2025-136xx/CVE-2025-13637.json) (`2025-12-03T01:15:47.713`)
-- [CVE-2025-54236](CVE-2025/CVE-2025-542xx/CVE-2025-54236.json) (`2025-12-03T02:00:02.087`)
-- [CVE-2025-55181](CVE-2025/CVE-2025-551xx/CVE-2025-55181.json) (`2025-12-03T01:15:47.877`)
-- [CVE-2025-66476](CVE-2025/CVE-2025-664xx/CVE-2025-66476.json) (`2025-12-03T01:15:48.020`)
 
 
 ## Download and Usage
