@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-02-26T09:00:11.687090+00:00
+2026-02-26T11:00:11.850186+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-02-26T08:16:19.897000+00:00
+2026-02-26T09:16:15.510000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,29 +33,24 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-334906
+334911
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `7`
+Recently added CVEs: `5`
 
-- [CVE-2026-1692](CVE-2026/CVE-2026-16xx/CVE-2026-1692.json) (`2026-02-26T08:16:18.160`)
-- [CVE-2026-1693](CVE-2026/CVE-2026-16xx/CVE-2026-1693.json) (`2026-02-26T08:16:18.490`)
-- [CVE-2026-1694](CVE-2026/CVE-2026-16xx/CVE-2026-1694.json) (`2026-02-26T08:16:18.763`)
-- [CVE-2026-1695](CVE-2026/CVE-2026-16xx/CVE-2026-1695.json) (`2026-02-26T08:16:19.063`)
-- [CVE-2026-1696](CVE-2026/CVE-2026-16xx/CVE-2026-1696.json) (`2026-02-26T08:16:19.323`)
-- [CVE-2026-1697](CVE-2026/CVE-2026-16xx/CVE-2026-1697.json) (`2026-02-26T08:16:19.620`)
-- [CVE-2026-1698](CVE-2026/CVE-2026-16xx/CVE-2026-1698.json) (`2026-02-26T08:16:19.897`)
+- [CVE-2026-28083](CVE-2026/CVE-2026-280xx/CVE-2026-28083.json) (`2026-02-26T09:16:14.857`)
+- [CVE-2026-28131](CVE-2026/CVE-2026-281xx/CVE-2026-28131.json) (`2026-02-26T09:16:15.050`)
+- [CVE-2026-28132](CVE-2026/CVE-2026-281xx/CVE-2026-28132.json) (`2026-02-26T09:16:15.217`)
+- [CVE-2026-28136](CVE-2026/CVE-2026-281xx/CVE-2026-28136.json) (`2026-02-26T09:16:15.363`)
+- [CVE-2026-28138](CVE-2026/CVE-2026-281xx/CVE-2026-28138.json) (`2026-02-26T09:16:15.510`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `3`
+Recently modified CVEs: `0`
 
-- [CVE-2025-14104](CVE-2025/CVE-2025-141xx/CVE-2025-14104.json) (`2026-02-26T08:16:15.540`)
-- [CVE-2025-14963](CVE-2025/CVE-2025-149xx/CVE-2025-14963.json) (`2026-02-26T08:16:15.703`)
-- [CVE-2026-27900](CVE-2026/CVE-2026-279xx/CVE-2026-27900.json) (`2026-02-26T07:16:18.990`)
 
 
 ## Download and Usage
