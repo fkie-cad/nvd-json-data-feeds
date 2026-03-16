@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-03-16T11:00:12.126979+00:00
+2026-03-16T13:00:11.571376+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-03-13T22:00:01.403000+00:00
+2026-03-16T12:48:04.103000+00:00
 ```
 
 ### Last Data Feed Release
@@ -44,10 +44,14 @@ Recently added CVEs: `0`
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `6`
 
-- [CVE-2026-3909](CVE-2026/CVE-2026-39xx/CVE-2026-3909.json) (`2026-03-13T22:00:01.403`)
-- [CVE-2026-3910](CVE-2026/CVE-2026-39xx/CVE-2026-3910.json) (`2026-03-13T22:00:01.403`)
+- [CVE-2025-54236](CVE-2025/CVE-2025-542xx/CVE-2025-54236.json) (`2026-03-16T01:00:01.400`)
+- [CVE-2026-3930](CVE-2026/CVE-2026-39xx/CVE-2026-3930.json) (`2026-03-16T12:44:04.387`)
+- [CVE-2026-3932](CVE-2026/CVE-2026-39xx/CVE-2026-3932.json) (`2026-03-16T12:45:41.057`)
+- [CVE-2026-3934](CVE-2026/CVE-2026-39xx/CVE-2026-3934.json) (`2026-03-16T12:48:04.103`)
+- [CVE-2026-3939](CVE-2026/CVE-2026-39xx/CVE-2026-3939.json) (`2026-03-16T12:45:11.123`)
+- [CVE-2026-3940](CVE-2026/CVE-2026-39xx/CVE-2026-3940.json) (`2026-03-16T12:44:41.743`)
 
 
 ## Download and Usage
