@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-05-08T02:00:18.026314+00:00
+2026-05-08T04:00:16.602748+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-05-08T01:16:10.053000+00:00
+2026-05-08T03:16:25.553000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,25 +33,28 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-348880
+348888
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `8`
 
-- [CVE-2026-8116](CVE-2026/CVE-2026-81xx/CVE-2026-8116.json) (`2026-05-08T00:16:09.833`)
-- [CVE-2026-8117](CVE-2026/CVE-2026-81xx/CVE-2026-8117.json) (`2026-05-08T00:16:10.320`)
-- [CVE-2026-8119](CVE-2026/CVE-2026-81xx/CVE-2026-8119.json) (`2026-05-08T01:16:08.367`)
-- [CVE-2026-8120](CVE-2026/CVE-2026-81xx/CVE-2026-8120.json) (`2026-05-08T01:16:09.643`)
-- [CVE-2026-8121](CVE-2026/CVE-2026-81xx/CVE-2026-8121.json) (`2026-05-08T01:16:09.860`)
-- [CVE-2026-8122](CVE-2026/CVE-2026-81xx/CVE-2026-8122.json) (`2026-05-08T01:16:10.053`)
+- [CVE-2026-3508](CVE-2026/CVE-2026-35xx/CVE-2026-3508.json) (`2026-05-08T03:16:24.820`)
+- [CVE-2026-6737](CVE-2026/CVE-2026-67xx/CVE-2026-6737.json) (`2026-05-08T03:16:24.990`)
+- [CVE-2026-8123](CVE-2026/CVE-2026-81xx/CVE-2026-8123.json) (`2026-05-08T02:16:07.803`)
+- [CVE-2026-8124](CVE-2026/CVE-2026-81xx/CVE-2026-8124.json) (`2026-05-08T02:16:08.000`)
+- [CVE-2026-8125](CVE-2026/CVE-2026-81xx/CVE-2026-8125.json) (`2026-05-08T02:16:08.200`)
+- [CVE-2026-8126](CVE-2026/CVE-2026-81xx/CVE-2026-8126.json) (`2026-05-08T03:16:25.143`)
+- [CVE-2026-8127](CVE-2026/CVE-2026-81xx/CVE-2026-8127.json) (`2026-05-08T03:16:25.350`)
+- [CVE-2026-8128](CVE-2026/CVE-2026-81xx/CVE-2026-8128.json) (`2026-05-08T03:16:25.553`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `0`
+Recently modified CVEs: `1`
 
+- [CVE-2026-31431](CVE-2026/CVE-2026-314xx/CVE-2026-31431.json) (`2026-05-08T03:16:24.477`)
 
 
 ## Download and Usage
