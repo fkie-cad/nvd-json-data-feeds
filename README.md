@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-05-14T10:00:18.923355+00:00
+2026-05-14T12:00:19.575092+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-05-14T09:16:28.170000+00:00
+2026-05-14T11:16:18.900000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,26 +33,27 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-350789
+350795
 ```
 
 ### CVEs added in the last Commit
 
 Recently added CVEs: `6`
 
-- [CVE-2026-6145](CVE-2026/CVE-2026-61xx/CVE-2026-6145.json) (`2026-05-14T09:16:26.290`)
-- [CVE-2026-6174](CVE-2026/CVE-2026-61xx/CVE-2026-6174.json) (`2026-05-14T09:16:27.353`)
-- [CVE-2026-6206](CVE-2026/CVE-2026-62xx/CVE-2026-6206.json) (`2026-05-14T09:16:27.497`)
-- [CVE-2026-6504](CVE-2026/CVE-2026-65xx/CVE-2026-6504.json) (`2026-05-14T09:16:27.680`)
-- [CVE-2026-6512](CVE-2026/CVE-2026-65xx/CVE-2026-6512.json) (`2026-05-14T09:16:27.883`)
-- [CVE-2026-6514](CVE-2026/CVE-2026-65xx/CVE-2026-6514.json) (`2026-05-14T09:16:28.023`)
+- [CVE-2025-11024](CVE-2025/CVE-2025-110xx/CVE-2025-11024.json) (`2026-05-14T10:16:17.760`)
+- [CVE-2025-68420](CVE-2025/CVE-2025-684xx/CVE-2025-68420.json) (`2026-05-14T11:16:16.177`)
+- [CVE-2025-68421](CVE-2025/CVE-2025-684xx/CVE-2025-68421.json) (`2026-05-14T11:16:17.240`)
+- [CVE-2026-2347](CVE-2026/CVE-2026-23xx/CVE-2026-2347.json) (`2026-05-14T10:16:19.203`)
+- [CVE-2026-8295](CVE-2026/CVE-2026-82xx/CVE-2026-8295.json) (`2026-05-14T11:16:18.770`)
+- [CVE-2026-8468](CVE-2026/CVE-2026-84xx/CVE-2026-8468.json) (`2026-05-14T11:16:18.900`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `2`
 
-- [CVE-2026-6999](CVE-2026/CVE-2026-69xx/CVE-2026-6999.json) (`2026-05-14T09:16:28.170`)
+- [CVE-2026-4271](CVE-2026/CVE-2026-42xx/CVE-2026-4271.json) (`2026-05-14T11:16:18.020`)
+- [CVE-2026-5119](CVE-2026/CVE-2026-51xx/CVE-2026-5119.json) (`2026-05-14T11:16:18.203`)
 
 
 ## Download and Usage
