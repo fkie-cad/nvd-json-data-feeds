@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-05-27T23:55:10.468026+00:00
+2026-05-28T02:00:14.108816+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-05-27T23:16:48.573000+00:00
+2026-05-28T00:16:43.950000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,38 +27,29 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2026-05-27T00:00:06.787940+00:00
+2026-05-28T00:00:06.758952+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-353506
+353508
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `12`
+Recently added CVEs: `2`
 
-- [CVE-2026-44247](CVE-2026/CVE-2026-442xx/CVE-2026-44247.json) (`2026-05-27T22:16:35.507`)
-- [CVE-2026-44720](CVE-2026/CVE-2026-447xx/CVE-2026-44720.json) (`2026-05-27T22:16:36.680`)
-- [CVE-2026-45083](CVE-2026/CVE-2026-450xx/CVE-2026-45083.json) (`2026-05-27T22:16:36.820`)
-- [CVE-2026-45152](CVE-2026/CVE-2026-451xx/CVE-2026-45152.json) (`2026-05-27T22:16:36.963`)
-- [CVE-2026-45322](CVE-2026/CVE-2026-453xx/CVE-2026-45322.json) (`2026-05-27T23:16:47.313`)
-- [CVE-2026-46402](CVE-2026/CVE-2026-464xx/CVE-2026-46402.json) (`2026-05-27T23:16:47.700`)
-- [CVE-2026-46414](CVE-2026/CVE-2026-464xx/CVE-2026-46414.json) (`2026-05-27T23:16:47.833`)
-- [CVE-2026-46416](CVE-2026/CVE-2026-464xx/CVE-2026-46416.json) (`2026-05-27T23:16:47.973`)
-- [CVE-2026-46538](CVE-2026/CVE-2026-465xx/CVE-2026-46538.json) (`2026-05-27T23:16:48.107`)
-- [CVE-2026-46544](CVE-2026/CVE-2026-465xx/CVE-2026-46544.json) (`2026-05-27T23:16:48.247`)
-- [CVE-2026-9208](CVE-2026/CVE-2026-92xx/CVE-2026-9208.json) (`2026-05-27T22:16:37.097`)
-- [CVE-2026-9739](CVE-2026/CVE-2026-97xx/CVE-2026-9739.json) (`2026-05-27T23:16:48.573`)
+- [CVE-2026-4888](CVE-2026/CVE-2026-48xx/CVE-2026-4888.json) (`2026-05-28T00:16:43.797`)
+- [CVE-2026-8915](CVE-2026/CVE-2026-89xx/CVE-2026-8915.json) (`2026-05-28T00:16:43.950`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `2`
 
-- [CVE-2026-4802](CVE-2026/CVE-2026-48xx/CVE-2026-4802.json) (`2026-05-27T23:16:48.403`)
+- [CVE-2015-2808](CVE-2015/CVE-2015-28xx/CVE-2015-2808.json) (`2026-05-28T00:16:41.810`)
+- [CVE-2026-4802](CVE-2026/CVE-2026-48xx/CVE-2026-4802.json) (`2026-05-28T00:16:43.653`)
 
 
 ## Download and Usage
