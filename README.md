@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-06-07T23:55:09.496422+00:00
+2026-06-08T02:00:12.938790+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-06-07T23:16:42.213000+00:00
+2026-06-08T01:16:23.073000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,25 +27,27 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2026-06-07T00:00:06.815097+00:00
+2026-06-08T00:00:06.803040+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-356022
+356030
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `8`
 
-- [CVE-2026-11461](CVE-2026/CVE-2026-114xx/CVE-2026-11461.json) (`2026-06-07T22:16:22.547`)
-- [CVE-2026-11462](CVE-2026/CVE-2026-114xx/CVE-2026-11462.json) (`2026-06-07T23:16:41.040`)
-- [CVE-2026-11463](CVE-2026/CVE-2026-114xx/CVE-2026-11463.json) (`2026-06-07T23:16:41.697`)
-- [CVE-2026-11464](CVE-2026/CVE-2026-114xx/CVE-2026-11464.json) (`2026-06-07T23:16:41.890`)
-- [CVE-2026-11465](CVE-2026/CVE-2026-114xx/CVE-2026-11465.json) (`2026-06-07T23:16:42.060`)
-- [CVE-2026-11466](CVE-2026/CVE-2026-114xx/CVE-2026-11466.json) (`2026-06-07T23:16:42.213`)
+- [CVE-2026-11467](CVE-2026/CVE-2026-114xx/CVE-2026-11467.json) (`2026-06-08T00:16:42.230`)
+- [CVE-2026-11468](CVE-2026/CVE-2026-114xx/CVE-2026-11468.json) (`2026-06-08T00:16:42.387`)
+- [CVE-2026-11469](CVE-2026/CVE-2026-114xx/CVE-2026-11469.json) (`2026-06-08T00:16:42.580`)
+- [CVE-2026-11470](CVE-2026/CVE-2026-114xx/CVE-2026-11470.json) (`2026-06-08T01:16:22.433`)
+- [CVE-2026-11471](CVE-2026/CVE-2026-114xx/CVE-2026-11471.json) (`2026-06-08T01:16:22.600`)
+- [CVE-2026-11472](CVE-2026/CVE-2026-114xx/CVE-2026-11472.json) (`2026-06-08T01:16:22.760`)
+- [CVE-2026-11473](CVE-2026/CVE-2026-114xx/CVE-2026-11473.json) (`2026-06-08T01:16:22.917`)
+- [CVE-2026-11474](CVE-2026/CVE-2026-114xx/CVE-2026-11474.json) (`2026-06-08T01:16:23.073`)
 
 
 ### CVEs modified in the last Commit
