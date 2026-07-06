@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-07-06T02:00:29.394808+00:00
+2026-07-06T04:00:30.162059+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-07-06T01:16:54.913000+00:00
+2026-07-06T03:16:29.613000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,18 +33,19 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-363388
+363394
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `5`
+Recently added CVEs: `6`
 
-- [CVE-2026-14777](CVE-2026/CVE-2026-147xx/CVE-2026-14777.json) (`2026-07-06T00:16:54.713`)
-- [CVE-2026-14778](CVE-2026/CVE-2026-147xx/CVE-2026-14778.json) (`2026-07-06T00:16:54.880`)
-- [CVE-2026-14783](CVE-2026/CVE-2026-147xx/CVE-2026-14783.json) (`2026-07-06T00:16:55.037`)
-- [CVE-2026-14784](CVE-2026/CVE-2026-147xx/CVE-2026-14784.json) (`2026-07-06T01:16:54.757`)
-- [CVE-2026-14786](CVE-2026/CVE-2026-147xx/CVE-2026-14786.json) (`2026-07-06T01:16:54.913`)
+- [CVE-2026-14787](CVE-2026/CVE-2026-147xx/CVE-2026-14787.json) (`2026-07-06T02:16:21.360`)
+- [CVE-2026-14788](CVE-2026/CVE-2026-147xx/CVE-2026-14788.json) (`2026-07-06T02:16:21.527`)
+- [CVE-2026-14789](CVE-2026/CVE-2026-147xx/CVE-2026-14789.json) (`2026-07-06T03:16:29.220`)
+- [CVE-2026-14790](CVE-2026/CVE-2026-147xx/CVE-2026-14790.json) (`2026-07-06T03:16:29.427`)
+- [CVE-2026-14791](CVE-2026/CVE-2026-147xx/CVE-2026-14791.json) (`2026-07-06T03:16:29.613`)
+- [CVE-2026-14803](CVE-2026/CVE-2026-148xx/CVE-2026-14803.json) (`2026-07-06T02:16:21.683`)
 
 
 ### CVEs modified in the last Commit
