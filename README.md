@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-08-10T02:00:29.063899+00:00
+2026-08-10T04:00:28.868021+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-08-10T01:16:48.950000+00:00
+2026-08-10T03:16:40.380000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,28 +33,24 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-374412
+374416
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `7`
+Recently added CVEs: `4`
 
-- [CVE-2026-19375](CVE-2026/CVE-2026-193xx/CVE-2026-19375.json) (`2026-08-10T00:17:09.677`)
-- [CVE-2026-19376](CVE-2026/CVE-2026-193xx/CVE-2026-19376.json) (`2026-08-10T00:17:10.847`)
-- [CVE-2026-19378](CVE-2026/CVE-2026-193xx/CVE-2026-19378.json) (`2026-08-10T00:17:11.023`)
-- [CVE-2026-19379](CVE-2026/CVE-2026-193xx/CVE-2026-19379.json) (`2026-08-10T01:16:47.980`)
-- [CVE-2026-19380](CVE-2026/CVE-2026-193xx/CVE-2026-19380.json) (`2026-08-10T01:16:48.163`)
-- [CVE-2026-19381](CVE-2026/CVE-2026-193xx/CVE-2026-19381.json) (`2026-08-10T01:16:48.367`)
-- [CVE-2026-19382](CVE-2026/CVE-2026-193xx/CVE-2026-19382.json) (`2026-08-10T01:16:48.537`)
+- [CVE-2026-19383](CVE-2026/CVE-2026-193xx/CVE-2026-19383.json) (`2026-08-10T02:16:43.910`)
+- [CVE-2026-19384](CVE-2026/CVE-2026-193xx/CVE-2026-19384.json) (`2026-08-10T03:16:40.050`)
+- [CVE-2026-19387](CVE-2026/CVE-2026-193xx/CVE-2026-19387.json) (`2026-08-10T03:16:40.223`)
+- [CVE-2026-19389](CVE-2026/CVE-2026-193xx/CVE-2026-19389.json) (`2026-08-10T03:16:40.380`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `2`
+Recently modified CVEs: `1`
 
-- [CVE-2026-3087](CVE-2026/CVE-2026-30xx/CVE-2026-3087.json) (`2026-08-10T01:16:48.717`)
-- [CVE-2026-3298](CVE-2026/CVE-2026-32xx/CVE-2026-3298.json) (`2026-08-10T01:16:48.950`)
+- [CVE-2025-12150](CVE-2025/CVE-2025-121xx/CVE-2025-12150.json) (`2026-08-10T03:16:39.830`)
 
 
 ## Download and Usage
