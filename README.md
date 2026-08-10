@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-08-09T23:55:28.201592+00:00
+2026-08-10T02:00:29.063899+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-08-09T23:16:36.487000+00:00
+2026-08-10T01:16:48.950000+00:00
 ```
 
 ### Last Data Feed Release
@@ -27,32 +27,34 @@ Repository synchronizes with the NVD every 2 hours.
 Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/releases/latest)
 
 ```plain
-2026-08-09T00:00:16.279841+00:00
+2026-08-10T00:00:13.510561+00:00
 ```
 
 ### Total Number of included CVEs
 
 ```plain
-374405
+374412
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `6`
+Recently added CVEs: `7`
 
-- [CVE-2026-12372](CVE-2026/CVE-2026-123xx/CVE-2026-12372.json) (`2026-08-09T23:16:35.793`)
-- [CVE-2026-19370](CVE-2026/CVE-2026-193xx/CVE-2026-19370.json) (`2026-08-09T22:16:31.393`)
-- [CVE-2026-19371](CVE-2026/CVE-2026-193xx/CVE-2026-19371.json) (`2026-08-09T23:16:35.943`)
-- [CVE-2026-19372](CVE-2026/CVE-2026-193xx/CVE-2026-19372.json) (`2026-08-09T23:16:36.110`)
-- [CVE-2026-19373](CVE-2026/CVE-2026-193xx/CVE-2026-19373.json) (`2026-08-09T23:16:36.280`)
-- [CVE-2026-19374](CVE-2026/CVE-2026-193xx/CVE-2026-19374.json) (`2026-08-09T23:16:36.487`)
+- [CVE-2026-19375](CVE-2026/CVE-2026-193xx/CVE-2026-19375.json) (`2026-08-10T00:17:09.677`)
+- [CVE-2026-19376](CVE-2026/CVE-2026-193xx/CVE-2026-19376.json) (`2026-08-10T00:17:10.847`)
+- [CVE-2026-19378](CVE-2026/CVE-2026-193xx/CVE-2026-19378.json) (`2026-08-10T00:17:11.023`)
+- [CVE-2026-19379](CVE-2026/CVE-2026-193xx/CVE-2026-19379.json) (`2026-08-10T01:16:47.980`)
+- [CVE-2026-19380](CVE-2026/CVE-2026-193xx/CVE-2026-19380.json) (`2026-08-10T01:16:48.163`)
+- [CVE-2026-19381](CVE-2026/CVE-2026-193xx/CVE-2026-19381.json) (`2026-08-10T01:16:48.367`)
+- [CVE-2026-19382](CVE-2026/CVE-2026-193xx/CVE-2026-19382.json) (`2026-08-10T01:16:48.537`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `2`
 
-- [CVE-2026-15534](CVE-2026/CVE-2026-155xx/CVE-2026-15534.json) (`2026-08-09T22:16:30.373`)
+- [CVE-2026-3087](CVE-2026/CVE-2026-30xx/CVE-2026-3087.json) (`2026-08-10T01:16:48.717`)
+- [CVE-2026-3298](CVE-2026/CVE-2026-32xx/CVE-2026-3298.json) (`2026-08-10T01:16:48.950`)
 
 
 ## Download and Usage
