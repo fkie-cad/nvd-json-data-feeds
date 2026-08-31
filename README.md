@@ -13,13 +13,13 @@ Repository synchronizes with the NVD every 2 hours.
 ### Last Repository Update
 
 ```plain
-2026-08-30T22:00:18.890567+00:00
+2026-08-30T23:55:18.540112+00:00
 ```
 
 ### Most recent CVE Modification Timestamp synchronized with NVD
 
 ```plain
-2026-08-30T21:16:34.347000+00:00
+2026-08-30T23:17:08.303000+00:00
 ```
 
 ### Last Data Feed Release
@@ -33,28 +33,24 @@ Download and Changelog: [Click](https://github.com/fkie-cad/nvd-json-data-feeds/
 ### Total Number of included CVEs
 
 ```plain
-384673
+384678
 ```
 
 ### CVEs added in the last Commit
 
-Recently added CVEs: `8`
+Recently added CVEs: `5`
 
-- [CVE-2026-56716](CVE-2026/CVE-2026-567xx/CVE-2026-56716.json) (`2026-08-30T20:16:34.077`)
-- [CVE-2026-56718](CVE-2026/CVE-2026-567xx/CVE-2026-56718.json) (`2026-08-30T21:16:34.160`)
-- [CVE-2026-64839](CVE-2026/CVE-2026-648xx/CVE-2026-64839.json) (`2026-08-30T20:16:34.160`)
-- [CVE-2026-64840](CVE-2026/CVE-2026-648xx/CVE-2026-64840.json) (`2026-08-30T20:16:34.220`)
-- [CVE-2026-64841](CVE-2026/CVE-2026-648xx/CVE-2026-64841.json) (`2026-08-30T20:16:34.280`)
-- [CVE-2026-64842](CVE-2026/CVE-2026-648xx/CVE-2026-64842.json) (`2026-08-30T20:16:34.337`)
-- [CVE-2026-64843](CVE-2026/CVE-2026-648xx/CVE-2026-64843.json) (`2026-08-30T20:16:34.397`)
-- [CVE-2026-64844](CVE-2026/CVE-2026-648xx/CVE-2026-64844.json) (`2026-08-30T20:16:34.453`)
+- [CVE-2026-82588](CVE-2026/CVE-2026-825xx/CVE-2026-82588.json) (`2026-08-30T22:17:00.847`)
+- [CVE-2026-82589](CVE-2026/CVE-2026-825xx/CVE-2026-82589.json) (`2026-08-30T23:17:07.800`)
+- [CVE-2026-82590](CVE-2026/CVE-2026-825xx/CVE-2026-82590.json) (`2026-08-30T23:17:07.967`)
+- [CVE-2026-82591](CVE-2026/CVE-2026-825xx/CVE-2026-82591.json) (`2026-08-30T23:17:08.137`)
+- [CVE-2026-82592](CVE-2026/CVE-2026-825xx/CVE-2026-82592.json) (`2026-08-30T23:17:08.303`)
 
 
 ### CVEs modified in the last Commit
 
-Recently modified CVEs: `1`
+Recently modified CVEs: `0`
 
-- [CVE-2026-64194](CVE-2026/CVE-2026-641xx/CVE-2026-64194.json) (`2026-08-30T21:16:34.347`)
 
 
 ## Download and Usage
