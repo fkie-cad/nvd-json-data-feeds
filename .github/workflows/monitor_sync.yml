@@ -9,18 +9,16 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: actions/checkout@v5
       - run: |
-          git fetch --prune --unshallow --tags
-          latest_commit=$(git log -1 --format="%at" | xargs -I{} date -d @{} "+%Y.%m.%d")
-          cur=$(date +"%Y.%m.%d")
-
+          cur=$(date -u +'%Y.%m.%d')
+          latest=$(gh api "repos/$REPOSITORY/commits?per_page=1" \
+            -q '.[0].commit.committer.date')
+          latest_commit=$(date -u -d "$latest" +'%Y.%m.%d')
           if [ "$latest_commit" != "$cur" ]; then
-            >&2 echo "Warning: No repository sync for one or more days"
+            echo "::warning::No repository sync for one or more days (last commit $latest_commit)"
             exit 101
           fi
-          exit 0
+          echo "Last commit $latest_commit"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ github.repository }}
-          BRANCH_NAME: ${{ github.ref_name }}
