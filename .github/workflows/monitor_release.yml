@@ -9,17 +9,16 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: actions/checkout@v5
       - run: |
-          git fetch --prune --unshallow --tags
-          latest_release=$(git describe --abbrev=0 --tags | grep -oP "\d+\.\d+\.\d+")
-          cur=$(date +"%Y.%m.%d")
-          if [ "$latest_release" != "$cur" ]; then
-            >&2 echo "Error: Daily release failed!"
+          prefix="v$(date -u +'%Y.%m.%d')"
+          count=$(gh api "repos/$REPOSITORY/git/matching-refs/tags/$prefix" -q 'length' || echo 0)
+          if [ "$count" -gt 0 ]; then
+            gh api "repos/$REPOSITORY/git/matching-refs/tags/$prefix" -q '.[].ref'
+            echo "Found $count tag(s) for $prefix"
+          else
+            echo "::error::Daily release $prefix is missing!"
             exit 100
           fi
-          exit 0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOSITORY: ${{ github.repository }}
-          BRANCH_NAME: ${{ github.ref_name }}
